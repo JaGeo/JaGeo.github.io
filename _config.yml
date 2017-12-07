@@ -1,1 +1,7 @@
+# Site settings
 theme: jekyll-theme-architect
+title: Janine George
+email: janine.george[at]rwth-aachen.de 
+description: Computational chemistry and physics 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jageo.github.io" # the base hostname & protocol for your site
