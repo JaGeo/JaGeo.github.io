@@ -6,10 +6,16 @@ layout: default
 <html>
 	<head>
 		<title>JG</title>
- {% for item in site.data.samplelist.docs %} <a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>   {% endfor %}
 	</head>
 	<body>
- 
+ <nav class="main-nav">
+<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+<ul>
+   {% for item in site.data.samplelist.docs %}
+      <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
+</nav>
 
 		<div class="container">
     		<div class="blurb">
