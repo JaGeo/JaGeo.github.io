@@ -31,7 +31,7 @@ Intermolecular Interactions in Molecular Crystals and Model Systems
 
 <p align="center"><img align="center" width="40%" src="../images/icn.jpg"></p>
 <center><p align="justify">Strengthening of halogen bonds from dimers to chains. Reprinted with permission from <a href=""><em>J. Phys. Chem. A</em> <strong>2014</strong>, <em>118</em>, 3193–3200</a>. Copyright 2014 American Chemical Society.</p></center>
-This was one of the very first studies on the cooperativity of pnictogen bonds [2]. Also, the importance of chalcogen bonds in contrast to non-directional interactions in layered cyanides was investigated [3]. In a more recent study, both the cooperativity of tetrel bonds in infinite chain systems and the role of tetrel bonds for the crystal stabilisation was assessed [4].</p> 
+This was one of the very first studies on the cooperativity of pnictogen bonds [2]. Also, the importance of chalcogen bonds in contrast to non-directional interactions in layered cyanides was investigated [3]. In a more recent study, both the cooperativity of tetrel bonds in infinite chain systems and the role of tetrel bonds for the crystal stabilisation were assessed [4].</p> 
 
 1. [V. L. Deringer, F. Pan, J. George, P. Müller, R. Dronskowski, U. Englert, *CrystEngComm* **2014**, *16*, 135–138.](http://dx.doi.org/10.1039/C3CE41779D)
 2. [J. George, V. L. Deringer, R. Dronskowski, *J. Phys. Chem. A* **2014**, *118*, 3193–3200.](http://dx.doi.org/10.1021/jp5015302)
