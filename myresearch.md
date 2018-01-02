@@ -8,6 +8,7 @@ permalink: /research/
 Molecular Crystals:
 --
 
+We recently reviewed our research on molecular crystals:  [V. L. Deringer, J. George, R. Dronskowski, U. Englert, *Acc. Chem. Res.*, **2017**, *50*, 1231.](http://dx.doi.org/10.1021/acs.accounts.7b00067) 
 
 Thermal Motion and Anisotropic Displacement Parameters 
 ==============
