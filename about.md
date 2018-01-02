@@ -35,8 +35,9 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
      
-17. [J. George, R. Wang, U. Englert, R. Dronskowski, *J. Chem. Phys.* **2017**, *147*, 074112.](http://dx.doi.org/10.1063/1.4985886)
-16. [J. George, R. Dronskowski, *J. Phys. Chem. A* **2017**, *121*, 1381–1387.](http://dx.doi.org/10.1021/acs.jpca.6b12732)
+18. [J. George, R. Wang, U. Englert, R. Dronskowski, *J. Chem. Phys.* **2017**, *147*, 074112.](http://dx.doi.org/10.1063/1.4985886)
+17. [J. George, R. Dronskowski, *J. Phys. Chem. A* **2017**, *121*, 1381–1387.](http://dx.doi.org/10.1021/acs.jpca.6b12732)
+16. [V. L. Deringer, J. George, R. Dronskowski, U. Englert, *Acc. Chem. Res.*, **2017**, *50*, 1231.](http://dx.doi.org/10.1021/acs.accounts.7b00067)
 15. [A. Görne, J. George, J. van Leusen, R. Dronskowski, *Inorganics*, **2017**, *5*, 10.](http://dx.doi.org/10.3390/inorganics5010010)
 14. [J. George, V. L. Deringer, A. Wang, P. Müller, U. Englert, R. Dronskowski, *J. Chem. Phys.* **2016**, *145*, 234512.](http://dx.doi.org/10.1063/1.4972068)
 13. [V. L. Deringer, A. Wang, J. George, R. Dronskowski, U. Englert, *Dalton Trans.* **2016**, *45*, 13680–13685.](http://dx.doi.org/10.1039/C6DT02487D)

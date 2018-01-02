@@ -17,7 +17,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}:</a> 
         </h2> 
-	<p><img hspace="20" align="left" src="{{post.image | relative_url}}" height="100" width="100"></img> {{ post.preview }}</p>
+	<p><a class="post-link" href="{{ post.url | relative_url }}"><img hspace="20" align="left" src="{{post.image | relative_url}}" height="100" width="100"></img></a> {{ post.preview }} <a href="{{ post.url | relative_url }}" >More information.</a> </p>
       </li>
     {% endfor %}
   </ul> 
