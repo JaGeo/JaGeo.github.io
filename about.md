@@ -19,8 +19,8 @@ Short CV
 Awards
 ======
 
-* **2014:** Springorum-Denkmünze, proRWTH.
-  - Award for Master’s Degree with Honours.
+* **2014:** Springorum Commemorative Coin, proRWTH.
+  - Award for Master’s Degree with Distinction.
 * **2014–2016:** Chemiefonds Fellowship, Fonds der Chemischen Industrie. 
   - PhD Fellowship.
 * **2010–2013:** Deutschland/NRW-Stipendium, RWTH Aachen University/Grünenthal.
