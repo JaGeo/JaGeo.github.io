@@ -13,12 +13,12 @@ We recently reviewed our research on molecular crystals:  [V. L. Deringer, J. Ge
 Thermal Motion and Anisotropic Displacement Parameters 
 ==============
 
-<p align="justify"> Anisotropic displacement parameters (ADPs) describe the mean-squared displacements of atoms in crystals and are typically used within the refinement of diffraction experiments. In recent years, the <em>ab initio</em> calculation of anisotropic displacement parameters became available. As my collaborators and I have shown in several recent studies, calculated ADPs from harmonic and quasi-harmonic phonon calculations are in very good agreement with excellent neutron and X-ray diffraction data [1,2,3,4].</p> 
+<p align="justify"> Anisotropic displacement parameters (ADPs) describe the mean-squared displacements of atoms in crystals and are typically used within the refinement of diffraction experiments. In recent years, the <em>ab initio</em> calculation of ADPs became available. As my collaborators and I have shown in several recent studies, calculated ADPs from harmonic and quasi-harmonic phonon calculations are in very good agreement with excellent neutron and X-ray diffraction data [1,2,3,4].</p> 
 <p align="center">
 <img align="center" width="50%" src="../images/CrCO6_figures_Figure4.png">
 <p align="center"> Reprinted from [2] (<a href="http://dx.doi.org/10.1039/C6DT02487D"><em>Dalton Trans.</em> <strong>2016</strong>, <em>45</em>, 13680–13685</a>).</p> 
 </p>
-<p align="justify">Only very heavy atoms such as osmium still show insufficient results [2]. Especially the ADPs of very light atoms such as hydrogen, that face problems both in X-ray diffraction (e.g., contrast problems) and neutron diffraction (incoherent neutron scattering), are in excellent agreement with experimental ADPs [2,4]. You can find more information on this project on <a href="http://www.ellipsoids.de">www.ellipsoids.de</a>.</p> 
+<p align="justify">Only very heavy atoms such as osmium still show insufficient results [2]. Especially the ADPs of very light atoms such as hydrogen, that face problems both in X-ray diffraction (e.g., due to contrast problems) and neutron diffraction (e.g., due to incoherent neutron scattering), are in excellent agreement with experimental ADPs [2,4]. You can find more information on this project on <a href="http://www.ellipsoids.de">www.ellipsoids.de</a>.</p> 
 
 1. [J. George, A. Wang, V. L. Deringer, R. Wang, R. Dronskowski, U. Englert, *CrystEngComm* **2015**, *17*, 7414–7422.](http://dx.doi.org/10.1039/C5CE01219H)
 2. [V. L. Deringer, A. Wang, J. George, R. Dronskowski, U. Englert, *Dalton Trans.* **2016**, *45*, 13680–13685.](http://dx.doi.org/10.1039/C6DT02487D)
