@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "First full structural characterization of chloro formamidinium salts"
+date:   2018-05-21 9:00:50 +0100
+preview: Syntheses, vibrational properties and solid-state structures of four chloro formamidinium compounds are presented.
+image: images/chloroformadiniumsalts.jpg
+categories: jekyll update
+---
+
+The synthesis of chloro formamidinium chloride has been  known  for  over  one  century. However,  no  solid-state  structure  of  a chlorine-substituted formamidinium compound has been reported up to now.  In this contribution, the  syntheses,  solid-state  structures, and vibrational  properties  of  four  chloro  formamidinium  compounds are described. The full paper can be accessed via [https://doi.org/10.1002/zaac.201800164](https://doi.org/10.1002/zaac.201800164)
