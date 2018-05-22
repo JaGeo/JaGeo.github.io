@@ -51,7 +51,7 @@ Several collaborations with experimentalists lead to the successful structural d
 3. [A. Görne, J. George, J. van Leusen, R. Dronskowski, *Inorganics*, **2017**, *5*, 10.](http://dx.doi.org/10.3390/inorganics5010010)
 4. [X. Liu, J. George, S. Maintz, R. Dronskowski, *Angew. Chem. Int. Ed.* **2015**, *54*, 1954–1959.](http://dx.doi.org/10.1002/anie.201410987)
 5. [Y. Li, J. George, X. Liu, R. Dronskowski, *Z. Anorg. Allg. Chem.* **2015**, *641*, 266–269.](http://dx.doi.org/10.1002/zaac.201400496)
-
+6. [A. Möller, J. George, R. Dronskowski, *Z. Anorg. Allg. Chem.* **2018**, *Just accepted*.](https://doi.org/10.1002/zaac.201800164)
 
 
 

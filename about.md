@@ -34,7 +34,8 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
-     
+
+19. [A. Möller, J. George, R. Dronskowski, *Z. Anorg. Allg. Chem.* **2018**, *Just accepted*.](https://doi.org/10.1002/zaac.201800164)     
 18. [J. George, R. Wang, U. Englert, R. Dronskowski, *J. Chem. Phys.* **2017**, *147*, 074112.](http://dx.doi.org/10.1063/1.4985886)
 17. [J. George, R. Dronskowski, *J. Phys. Chem. A* **2017**, *121*, 1381–1387.](http://dx.doi.org/10.1021/acs.jpca.6b12732)
 16. [V. L. Deringer, J. George, R. Dronskowski, U. Englert, *Acc. Chem. Res.*, **2017**, *50*, 1231.](http://dx.doi.org/10.1021/acs.accounts.7b00067)
