@@ -43,7 +43,7 @@ This was one of the very first studies on the cooperativity of pnictogen bonds [
 Charaterization of Newly Synthesized Molecular Crystals
 ========
 <p align="justify">
-Several collaborations with experimentalists lead to the successful structural determination and characterization of newly synthesized molecular crystals (guanidinates  [1-3], nitride chlorides [4], azides [5]). Periodic DFT calculations helped, e.g., with the determination of hydrogen positions and hydrogen ADPs. This is especially relevant for crystals with very heavy atoms (contrast problems in X-ray diffraction) and many hydrogen atoms (incoherent neutron scattering). Moreover, periodic DFT helped characterizing the electronic and phononic structure. 
+Several collaborations with experimentalists lead to the successful structural determination and characterization of newly synthesized molecular crystals (guanidinates  [1-3], nitride chlorides [4], azides [5], chloro formamidinium compounds [6]). Periodic DFT calculations helped, e.g., with the determination of hydrogen positions and hydrogen ADPs. This is especially relevant for crystals with very heavy atoms (contrast problems in X-ray diffraction or strong absorption in neutron diffraction) and many hydrogen atoms (incoherent neutron scattering). Moreover, the electronic and phononic structures were characterized by periodic DFT calculations. 
 </p>
 
 1. [R. Missong, J. George, A. Houben, M. Hoelzel, R. Dronskowski, *Angew. Chem. Int. Ed.* **2015**, *54*, 12171–12175.](http://dx.doi.org/10.1002/anie.201507113)
