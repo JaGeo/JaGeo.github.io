@@ -19,6 +19,8 @@ Short CV
 Awards
 ======
 
+* **2018:** Borchers Badge, proRWTH.
+  - Award for Doctorate with Distinction (summa cum laude)
 * **2014:** Springorum Commemorative Coin, proRWTH.
   - Award for Master’s Degree with Distinction.
 * **2014–2016:** Chemiefonds Fellowship, Fonds der Chemischen Industrie. 
