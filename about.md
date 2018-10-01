@@ -18,7 +18,8 @@ Short CV
 
 Awards
 ======
-
+* **2018:** Poster prize, GDCh-Fachgruppe Festkörperchemie und Materialforschung
+  - Award for a poster at 19. Vortragstagung für Anorganische Chemie 2018
 * **2018:** Borchers Badge, proRWTH.
   - Award for Doctorate with Distinction (summa cum laude)
 * **2014:** Springorum Commemorative Coin, proRWTH.
