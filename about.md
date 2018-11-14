@@ -59,6 +59,26 @@ See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcI
 1. J. George, Quantum Chemical Calculations on the Potential Energy Surface of Ozone. In JSC Guest Student Programme Proceedings 2011; M. Winkel, (Ed.), Technical Report FZJ-JSC-IB-2011-06, Jülich 2011.
 
 
+Talks
+=====
+
+11. September 2018. "Ab Initio Anisotropic Displacement Parameters of Molecular Crystals", Contributed Talk at the Symposium on Theoretical Chemistry in Halle (Saale), Germany.
+10. September 2018. "How Computational Chemistry Can Help Crystallographers and Practical Chemists", Invited Talk at the 3. Meeting of the German Young Crystallographers in Aachen, Germany.
+9. May 2018. "Computergestützte Suche nach neuen Materialien", Talk for Students at the Boarding School “Internatsschule Schloss Hansenberg“ in Geisenheim-Johannisberg, Germany.
+8. April 2017. "Anisotropic Displacement Parameters from Electronic-Structure Theory", Invited Seminar Talk of the NAPS Institute at the Université catholique de Louvain in Louvain-la-Neuve, Belgium.
+7. March 2017. "Anisotropic Displacement Parameters from Electronic-Structure Theory: How to Perform and What to Compare", Poster at the Annual Meeting of the German Crystallographic Society in Karlsruhe, Germany.
+6. January 2017. "Ab initio Auslenkungsparameter", Talk at the Workshop of the Förderverein Chemieolympiade at the DECHEMA in Frankfurt,
+Germany.
+5. June 2016. "Fictitious Allotropes of Crystalline Bromine and Iodine in DFT", Poster at the Workshop “iPolymorphs” at the Materials Physics Center in Donostia,
+Spain.
+4. March 2016. "Let Them Swing", Talk at the “Hemdsärmelkolloqium” at the KIT in Karlsruhe, Germany.
+3. July 2015. "Anisotropic Displacement Parameters from Dispersion-Corrected DFT-Methods", Poster at the “Hands-On Workshop Density-Functional Theory and Beyond” at the
+Fritz-Haber-Institut in Berlin, Germany.
+2. January 2015, "Intermolekulare Wechselwirkungen in kristallinen Netzwerken", Talk at the Workshop of the Förderverein Chemieolympiade at the TU Dresden, Germany.
+1. January 2014 "Quantenchemische Untersuchungen intermolekularer Wechselwirkungen des Brommalonaldehyds", Talk at the Workshop of the Förderverein Chemieolympiade at the Universität Münster, Germany.
+
+
+
 
 Projects
 =========
