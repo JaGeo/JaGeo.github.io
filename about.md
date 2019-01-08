@@ -86,9 +86,11 @@ ts/workshops.html) at the Universität Münster, Germany.
 
 
 
-Projects
+Programming Projects
 =========
 
+
+- During my Doctorate:
 1. Development of the [Molecular Toolbox](https://github.com/JaGeo/MolecularToolbox) - a package that converts anisotropic displacement parameters from one parametrization to another 
 2. Development of [AtomicContributions](https://github.com/JaGeo/AtomicContributions) -  a package to visualize the atomic contributions to each phonon mode
 3. Development of [IR](https://github.com/JaGeo/IR) - a package to calculate IR spectra with [Phonopy](https://atztogo.github.io/phonopy/) and [VASP](http://vasp.at/)
