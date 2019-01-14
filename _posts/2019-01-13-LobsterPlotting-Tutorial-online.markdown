@@ -7,4 +7,6 @@ image: images/COHP.png
 categories: jekyll update
 ---
 
-Lobster is a program to calculate Crystal Orbital Hamilton Populations and projected densities of states from plane-wave density-functional theory data (see [www.cohp.de](http://cohp.de/) for more information). The tutorial shows how to plot Lobster's output files COHPCAR.lobster and DOSCAR.lobster with the help of the [pymatgen library](http://pymatgen.org/). Furthermore, it is shown how to evaluate the files ICOHPCAR.lobster and CHARGE.lobster. [Click here to see the tutorial.](https://jageo.github.io/lobster.html) 
+<!---Lobster is a program to calculate Crystal Orbital Hamilton Populations and projected densities of states from plane-wave density-functional theory data (see [www.cohp.de](http://cohp.de/) for more information). The tutorial shows how to plot Lobster's output files COHPCAR.lobster and DOSCAR.lobster with the help of the [pymatgen library](http://pymatgen.org/). Furthermore, it is shown how to evaluate the files ICOHPCAR.lobster and CHARGE.lobster. [Click here to see the tutorial.](https://jageo.github.io/lobster.html) -->
+
+{% include lobster.html %} 
