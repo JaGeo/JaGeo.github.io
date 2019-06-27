@@ -33,8 +33,6 @@ Awards
 * **2010–2014:** Dean’s List, RWTH Aachen University.
   - Four Years in the Top 5% of the RWTH Aachen University Students.
 
-
-
 Publications
 =============
 
@@ -104,3 +102,8 @@ Programming Projects
 3. Development of [IR](https://github.com/JaGeo/IR) - a package to calculate IR spectra with [Phonopy](https://atztogo.github.io/phonopy/) and [VASP](http://vasp.at/)
 
 
+Reviewer for:
+============
+* [Journal of Applied Physics](https://aip.scitation.org/journal/jap)
+* [Minerals](https://www.mdpi.com/journal/minerals)
+* [Nanomaterials](https://www.mdpi.com/journal/nanomaterials)
