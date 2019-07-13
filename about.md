@@ -38,6 +38,7 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
+20. [W. Chen, J. George, J. B. Varley, G.-M. Rignanese, G. Hautier, *Npj Comput. Mater.* **2019**, *5*, 72.](https://doi.org/10.1038/s41524-019-0208-x)
 19. [A. Möller, J. George, R. Dronskowski, *Z. Anorg. Allg. Chem.* **2018**, *644*, 1485.](https://doi.org/10.1002/zaac.201800164)     
 18. [J. George, R. Wang, U. Englert, R. Dronskowski, *J. Chem. Phys.* **2017**, *147*, 074112.](http://dx.doi.org/10.1063/1.4985886)
 17. [J. George, R. Dronskowski, *J. Phys. Chem. A* **2017**, *121*, 1381–1387.](http://dx.doi.org/10.1021/acs.jpca.6b12732)
