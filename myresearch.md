@@ -4,6 +4,13 @@ title: Research
 permalink: /research/
 ---
 
+Inorganic Materials:
+--
+
+I am strongly involved in developing tools for the [Python Library pymatgen](http://pymatgen.org/) that allow the automated bonding analysis of inorganic materials with the program [Lobster](http://www.cohp.de). A recent application of these tools was in the high-throughput discovery of a new material for semiconductor spintronics [1] . Furthermore, I am working on the robust and automatic analysis of coordination environments.
+
+1. [W. Chen, J. George, J. B. Varley, G.-M. Rignanese, G. Hautier, *Npj Comput. Mater.* **2019**, *5*, 72.](https://doi.org/10.1038/s41524-019-0208-x)
+
 
 Molecular Crystals:
 --
