@@ -19,6 +19,8 @@ Short CV
 
 Awards
 ======
+* **2019:** Marie Skłodowska-Curie Individual Fellowship, European Commission.
+  - Postdoctoral Fellowship
 * **2018:** Travel award for the MRS Fall Meeting 2018 in Boston.
 * **2018:** Poster prize, GDCh-Fachgruppe Festkörperchemie und Materialforschung.
   - Award for a poster at 19. Vortragstagung für Anorganische Chemie 2018
