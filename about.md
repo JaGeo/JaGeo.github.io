@@ -39,6 +39,7 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
+23. [R. Wang, J. George, S. K. Potts, M. Kremer, R. Dronskowski, U. Englert, *Acta. Cryst. C* **2019**,  C75, https://doi.org/10.1107/S205322961901132X](https://doi.org/10.1107/S205322961901132X)
 22. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *ChemRxiv* **2019**](http://dx.doi.org/10.26434/chemrxiv.9255446.v1
 )
 21. [D. Mroz, J. George, M. Kremer, R. Wang, U. Englert, R. Dronskowski, *ChemRxiv*, **2019**.]( http://dx.doi.org/10.26434/chemrxiv.8181230.v1)
@@ -66,6 +67,8 @@ See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcI
 
 Talks
 =====
+19. August 2019. "Return of the Pauling Rules", Science Slam Contribution at the European Crystallographic Meeting in Vienna. 
+18. August 2019. "Reassessing Pauling's Rules", Poster at the European Crystallographic Meeting in Vienna.
 17. July 2019. "Accelerated Analysis and Discovery of Materials", Invited Talk at the CECAM workshop "Accelerating material discovery by smart high-throughput computations" at the University of Liverpool, UK.
 16. February 2019. "Reassessing Pauling's Rules", Poster at the 28th ATC in Frankfurt, Germany. 
 15. February 2019. "Accelerated Analysis and Discovery of Materials", Invited Talk in the context of the priority programme [FLAME](https://www.flame.tu-darmstadt.de/flame_1/project/index.de.jsp) at the Institute of Materials Science of the Darmstadt University in Darmstadt, Germany.
