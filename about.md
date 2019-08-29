@@ -39,7 +39,7 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
-23. [R. Wang, J. George, S. K. Potts, M. Kremer, R. Dronskowski, U. Englert, *Acta. Cryst. C* **2019**,  C75, https://doi.org/10.1107/S205322961901132X](https://doi.org/10.1107/S205322961901132X)
+23. [R. Wang, J. George, S. K. Potts, M. Kremer, R. Dronskowski, U. Englert, *Acta. Cryst. C* **2019**,  C75, DOI: 10.1107/S205322961901132X.](https://doi.org/10.1107/S205322961901132X)
 22. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *ChemRxiv* **2019**](http://dx.doi.org/10.26434/chemrxiv.9255446.v1
 )
 21. [D. Mroz, J. George, M. Kremer, R. Wang, U. Englert, R. Dronskowski, *ChemRxiv*, **2019**.]( http://dx.doi.org/10.26434/chemrxiv.8181230.v1)
