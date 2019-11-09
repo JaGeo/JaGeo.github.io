@@ -67,10 +67,12 @@ See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcI
 1. J. George, Quantum Chemical Calculations on the Potential Energy Surface of Ozone. In JSC Guest Student Programme Proceedings 2011; M. Winkel, (Ed.), Technical Report FZJ-JSC-IB-2011-06, Jülich 2011.
 
 
-Talks
+Talks/Posters
 =====
-19. August 2019. "Return of the Pauling Rules", Science Slam Contribution at the European Crystallographic Meeting in Vienna. 
-18. August 2019. "Reassessing Pauling's Rules", Poster at the European Crystallographic Meeting in Vienna.
+21. November 2019. "Reassessing Pauling's Rules", Contributed talk at the 15th German Conference on Cheminformatics, Mainz, Germany.
+20. September 2019. "Reassessing Pauling's Rules", Poster at the Symposium on Theoretical Chemistry, University of Rostock, Germany.
+19. August 2019. "Return of the Pauling Rules", Science Slam Contribution at the European Crystallographic Meeting in Vienna, Austria. 
+18. August 2019. "Reassessing Pauling's Rules", Poster at the European Crystallographic Meeting in Vienna, Austria.
 17. July 2019. "Accelerated Analysis and Discovery of Materials", Invited Talk at the CECAM workshop "Accelerating material discovery by smart high-throughput computations" at the University of Liverpool, UK.
 16. February 2019. "Reassessing Pauling's Rules", Poster at the 28th ATC in Frankfurt, Germany. 
 15. February 2019. "Accelerated Analysis and Discovery of Materials", Invited Talk in the context of the priority programme [FLAME](https://www.flame.tu-darmstadt.de/flame_1/project/index.de.jsp) at the Institute of Materials Science of the Darmstadt University in Darmstadt, Germany.
