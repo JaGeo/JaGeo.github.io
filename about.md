@@ -44,7 +44,7 @@ See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcI
 24. [Z. Ma, A. Jaworski, J. George, A. Rokicinska, T. Thersleff, T. Budnyak, G. Hautier,
 A. J. Pell, R. Dronskowski, P. Kuśtrowski, A. Slabon, *J. Phys. Chem. C*, DOI: 10.1021/acs.jpcc.9b09838](https://doi.org/10.1021/acs.jpcc.9b09838)
 23. [R. Wang, J. George, S. K. Potts, M. Kremer, R. Dronskowski, U. Englert, *Acta. Cryst. C* **2019**, *C75*, 1190.](https://doi.org/10.1107/S205322961901132X)
-22. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *ChemRxiv* **2019**](http://dx.doi.org/10.26434/chemrxiv.9255446.v1
+22. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *ChemRxiv* **2019**](http://dx.doi.org/10.26434/chemrxiv.9255446.v2
 )
 21. [D. Mroz, J. George, M. Kremer, R. Wang, U. Englert, R. Dronskowski, *CrystEngComm*, **2019**, *21*, 6396 ]( http://dx.doi.org/10.1039/C9CE00794F)
 20. [W. Chen, J. George, J. B. Varley, G.-M. Rignanese, G. Hautier, *Npj Comput. Mater.* **2019**, *5*, 72.](https://doi.org/10.1038/s41524-019-0208-x)
