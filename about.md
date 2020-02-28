@@ -11,6 +11,7 @@ permalink: /about/
 Short CV
 ========
 <!--* **2018-today:** Post-Doc position in the groups of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) and [Prof. Gian-Marco Rignanese](https://perso.uclouvain.be/gian-marco.rignanese/) at the [Université catholique de Louvain](https://uclouvain.be)-->
+* **January 2020** Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)http://www.hpc-europa.eu/ 
 * **2018-today:** Post-Doc position in the group of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) 
 * **2013-2017:** Doctorate (Dr. rer. nat, summa cum laude) in Computational Solid-State Chemistry under the supervision of [Prof. Richard Dronskowski](http://www.ssc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de)
 * **2011-2013:** Master of Science in Chemistry (summa cum laude), [RWTH Aachen University](http://www.rwth-aachen.de)
@@ -41,11 +42,12 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
-24. [Z. Ma, A. Jaworski, J. George, A. Rokicinska, T. Thersleff, T. Budnyak, G. Hautier,
+26. [D. Waroquiers, J. George, M. Horton, S. Schenk, K. Persson, G.-M. Rignanese, X. Gonze, G. Hautier *ChemRxiv* *2019*, DOI: 10.26434/chemrxiv.11294480.v1](http://dx.doi.org/10.26434/chemrxiv.11294480.v1)
+25. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *Angew. Chem. Int. Ed.* **2020**, DOI: 10.1002/anie.202000829](http://dx.doi.org/10.1002/anie.202000829)
+24. [J. George, M. Suta, *Nachrichten aus der Chemie* **2020** *68*, 49-52.](https://doi.org/10.1002/nadc.20204093535)
+23. [Z. Ma, A. Jaworski, J. George, A. Rokicinska, T. Thersleff, T. Budnyak, G. Hautier,
 A. J. Pell, R. Dronskowski, P. Kuśtrowski, A. Slabon, *J. Phys. Chem. C*, DOI: 10.1021/acs.jpcc.9b09838](https://doi.org/10.1021/acs.jpcc.9b09838)
-23. [R. Wang, J. George, S. K. Potts, M. Kremer, R. Dronskowski, U. Englert, *Acta. Cryst. C* **2019**, *C75*, 1190.](https://doi.org/10.1107/S205322961901132X)
-22. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *ChemRxiv* **2019**](http://dx.doi.org/10.26434/chemrxiv.9255446.v2
-)
+22. [R. Wang, J. George, S. K. Potts, M. Kremer, R. Dronskowski, U. Englert, *Acta. Cryst. C* **2019**, *C75*, 1190.](https://doi.org/10.1107/S205322961901132X)
 21. [D. Mroz, J. George, M. Kremer, R. Wang, U. Englert, R. Dronskowski, *CrystEngComm*, **2019**, *21*, 6396 ]( http://dx.doi.org/10.1039/C9CE00794F)
 20. [W. Chen, J. George, J. B. Varley, G.-M. Rignanese, G. Hautier, *Npj Comput. Mater.* **2019**, *5*, 72.](https://doi.org/10.1038/s41524-019-0208-x)
 19. [A. Möller, J. George, R. Dronskowski, *Z. Anorg. Allg. Chem.* **2018**, *644*, 1485.](https://doi.org/10.1002/zaac.201800164)     
@@ -71,6 +73,7 @@ A. J. Pell, R. Dronskowski, P. Kuśtrowski, A. Slabon, *J. Phys. Chem. C*, DOI: 
 
 Talks/Posters
 =====
+22. January 2020: "Accelerated Analysis and Discovery of Materials", Invited Talk in the Solid-State Seminar of the Inorganic Chemistry Laboratory at University of Oxford, UK.
 21. November 2019. "Reassessing Pauling's Rules", Contributed talk at the 15th German Conference on Cheminformatics, Mainz, Germany.
 20. September 2019. "Reassessing Pauling's Rules", Poster at the Symposium on Theoretical Chemistry, University of Rostock, Germany.
 19. August 2019. "Return of the Pauling Rules", Science Slam Contribution at the European Crystallographic Meeting in Vienna, Austria. 
