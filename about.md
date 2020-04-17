@@ -42,7 +42,8 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
-26. [D. Waroquiers, J. George, M. Horton, S. Schenk, K. Persson, G.-M. Rignanese, X. Gonze, G. Hautier *ChemRxiv* *2019*, DOI: 10.26434/chemrxiv.11294480.v1](http://dx.doi.org/10.26434/chemrxiv.11294480.v1)
+27. [R. Nelson, C. Ertural, J. George, V. Deringer, G. Hautier, R. Dronskowski *ChemRxiv* **2020**, DOI: 10.26434/chemrxiv.12024756.v1](http://dx.doi.org/10.26434/chemrxiv.12024756.v1)
+26. [D. Waroquiers, J. George, M. Horton, S. Schenk, K. Persson, G.-M. Rignanese, X. Gonze, G. Hautier *ChemRxiv* **2019**, DOI: 10.26434/chemrxiv.11294480.v1](http://dx.doi.org/10.26434/chemrxiv.11294480.v1)
 25. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *Angew. Chem. Int. Ed.* **2020**, DOI: 10.1002/anie.202000829](http://dx.doi.org/10.1002/anie.202000829)
 24. [J. George, M. Suta, *Nachrichten aus der Chemie* **2020** *68*, 49-52.](https://doi.org/10.1002/nadc.20204093535)
 23. [Z. Ma, A. Jaworski, J. George, A. Rokicinska, T. Thersleff, T. Budnyak, G. Hautier,
