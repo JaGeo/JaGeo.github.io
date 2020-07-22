@@ -6,7 +6,7 @@ preview: I was interviewed by the women.code(be) community.
 image: images/Interview_womencode_vorschau.png
 categories: jekyll update
 ---
-I gave an interview to women.code(be). You can find it [here](://blog.womendotcode.be/women-codebe-spotlight-member-5-janine-george/)
+I gave an interview to women.code(be). You can find it [here](https://blog.womendotcode.be/women-codebe-spotlight-member-5-janine-george/)
 
 
 
