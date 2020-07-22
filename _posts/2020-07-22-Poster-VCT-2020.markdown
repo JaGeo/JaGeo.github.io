@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VCT2020 Conference"
-date:   2020-03-03 10:00:00 +0100
+date:   2020-07-22 10:00:00 +0100
 preview: I am taking part in the VCT2020 Conference with a Poster.
 image: images/POSTER_VCT2020.PNG  
 categories: jekyll update
