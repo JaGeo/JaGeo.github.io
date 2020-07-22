@@ -48,7 +48,7 @@ See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcI
 28. [M. Suta, J. George, *Nachrichten aus der Chemie*, **2020**, *68*, 54-58](https://doi.org/10.1002/nadc.20204096059)
 27. [R. Nelson, C. Ertural, J. George, V. Deringer, G. Hautier, R. Dronskowski *J Comput Chem.* **2020**, *41*, 1931-1940.](https://doi.org/10.1002/jcc.26353)
 26. [D. Waroquiers, J. George, M. Horton, S. Schenk, K. Persson, G.-M. Rignanese, X. Gonze, G. Hautier *ChemRxiv* **2019**, DOI: 10.26434/chemrxiv.11294480.v1](http://dx.doi.org/10.26434/chemrxiv.11294480.v1)
-25. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *Angew. Chem. Int. Ed.* **2020**, DOI: 10.1002/anie.202000829](http://dx.doi.org/10.1002/anie.202000829)
+25. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, *Angew. Chem. Int. Ed.* **2020**, *59*, 7569](http://dx.doi.org/10.1002/anie.202000829)
 24. [J. George, M. Suta, *Nachrichten aus der Chemie* **2020** *68*, 49-52.](https://doi.org/10.1002/nadc.20204093535)
 23. [Z. Ma, A. Jaworski, J. George, A. Rokicinska, T. Thersleff, T. Budnyak, G. Hautier,
 A. J. Pell, R. Dronskowski, P. Kuśtrowski, A. Slabon, *J. Phys. Chem. C*,  **2020**, *124*, 152–160](https://doi.org/10.1021/acs.jpcc.9b09838)
