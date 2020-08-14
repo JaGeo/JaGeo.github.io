@@ -6,7 +6,7 @@ preview: I have written a tutorial on Lobster workflows for atomate..
 image: images/lobster.png
 categories: jekyll update
 ---
-You can find the tutorial [here](sites/Tutorial_LobsterAtomate.html)
+You can find the tutorial [here](../../../../../sites/Tutorial_LobsterAtomate.html)
 
 
 
