@@ -43,7 +43,7 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
-32. [M. Suta, J. George, “ Temperatur mit Licht messen“, *Nachrichten aus der Chemie*, **2020**, In Print.]() 
+32. [M. Suta, J. George, “ Temperatur mit Licht messen“, *Nachrichten aus der Chemie*, **2020**,  *68*, 68-73](https://doi.org/10.1002/nadc.20204096060) 
 31. [R. Hanus, J. George, M. Wood, Y. Cheng, D. L. Abernathy, M. E. Manley, G. Hautier, G. J. Snyder, R. P. Hermann, *ChemRxiv*, **2020**, DOI:v10.26434/chemrxiv.12252056.v1 ](https://doi.org/10.26434/chemrxiv.12252056.v1)
 30. [J George, G Hautier, AP Bartók, G Csányi, VL Deringer, "Combining phonon accuracy with high transferability in Gaussian approximation potential models", *J. Chem. Phys.*, **2020**, *153*, 044104](https://doi.org/10.1063/5.0013826)
 29. [J. George, M. Suta, "Vorhersagen aus Hochdurchsatzstudien", *Nachrichten aus der Chemie*, **2020**, *68*, 80-83](https://doi.org/10.1002/nadc.20204096056)
