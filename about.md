@@ -129,6 +129,10 @@ Programming Projects
 
 Reviewer for:
 ============
+* [Journal of the American Chemical Society](https://pubs.acs.org/journal/jacsat)
 * [Journal of Applied Physics](https://aip.scitation.org/journal/jap)
+* [Communications Materials](https://www.nature.com/commsmat/)
+* [Chemistry – A European Journal](https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765)
+* [Cellulose](https://www.springer.com/journal/10570)
 * [Minerals](https://www.mdpi.com/journal/minerals)
 * [Nanomaterials](https://www.mdpi.com/journal/nanomaterials)
