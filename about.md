@@ -43,7 +43,9 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
-32. [M. Suta, J. George, “ Temperatur mit Licht messen“, *Nachrichten aus der Chemie*, **2020**,  *68*, 68-73](https://doi.org/10.1002/nadc.20204096060) 
+
+33. [J. George, G. Hautier, “The chemist versus the machine: traditional knowledge versus machine learning techniques”, *Trends in Chemistry*, **2021**, DOI:10.1016/j.trechm.2020.10.007 ](https://doi.org/10.1016/j.trechm.2020.10.007)
+32. [M. Suta, J. George, “Temperatur mit Licht messen“, *Nachrichten aus der Chemie*, **2020**,  *68*, 68-73](https://doi.org/10.1002/nadc.20204096060) 
 31. [R. Hanus, J. George, M. Wood, Y. Cheng, D. L. Abernathy, M. E. Manley, G. Hautier, G. J. Snyder, R. P. Hermann, *ChemRxiv*, **2020**, DOI:v10.26434/chemrxiv.12252056.v1 ](https://doi.org/10.26434/chemrxiv.12252056.v1)
 30. [J George, G Hautier, AP Bartók, G Csányi, VL Deringer, "Combining phonon accuracy with high transferability in Gaussian approximation potential models", *J. Chem. Phys.*, **2020**, *153*, 044104](https://doi.org/10.1063/5.0013826)
 29. [J. George, M. Suta, "Vorhersagen aus Hochdurchsatzstudien", *Nachrichten aus der Chemie*, **2020**, *68*, 80-83](https://doi.org/10.1002/nadc.20204096056)
@@ -80,6 +82,7 @@ A. J. Pell, R. Dronskowski, P. Kuśtrowski, A. Slabon, "Exploring the Origins of
 
 Talks/Posters
 =====
+
 22. January 2020: "Accelerated Analysis and Discovery of Materials", Invited Talk in the Solid-State Seminar of the Inorganic Chemistry Laboratory at University of Oxford, UK.
 21. November 2019. "Reassessing Pauling's Rules", Contributed talk at the 15th German Conference on Cheminformatics, Mainz, Germany.
 20. September 2019. "Reassessing Pauling's Rules", Poster at the Symposium on Theoretical Chemistry, University of Rostock, Germany.
