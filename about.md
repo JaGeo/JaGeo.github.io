@@ -43,7 +43,7 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
-
+34. [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *Arxiv*, 2020, URL: https://arxiv.org/abs/2011.09827](https://arxiv.org/abs/2011.09827)
 33. [J. George, G. Hautier, “The chemist versus the machine: traditional knowledge versus machine learning techniques”, *Trends in Chemistry*, **2021**, DOI:10.1016/j.trechm.2020.10.007 ](https://doi.org/10.1016/j.trechm.2020.10.007)
 32. [M. Suta, J. George, “Temperatur mit Licht messen“, *Nachrichten aus der Chemie*, **2020**,  *68*, 68-73](https://doi.org/10.1002/nadc.20204096060) 
 31. [R. Hanus, J. George, M. Wood, Y. Cheng, D. L. Abernathy, M. E. Manley, G. Hautier, G. J. Snyder, R. P. Hermann, *ChemRxiv*, **2020**, DOI:v10.26434/chemrxiv.12252056.v1 ](https://doi.org/10.26434/chemrxiv.12252056.v1)

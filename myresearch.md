@@ -7,9 +7,13 @@ permalink: /research/
 Inorganic Materials:
 --
 
-I am strongly involved in developing tools for the [Python Library pymatgen](http://pymatgen.org/) that allow the automated bonding analysis of inorganic materials with the program [Lobster](http://www.cohp.de). A recent application of these tools was in the high-throughput discovery of a new material for semiconductor spintronics [1] . Furthermore, I am working on the robust and automatic analysis of coordination environments.
+I have implemented tools in [Python Library pymatgen](http://pymatgen.org/) that allow the automated bonding analysis of inorganic materials with the program [Lobster](http://www.cohp.de). These tools were recently used within the high-throughput discovery of a new material for semiconductor spintronics [1] and new ferroelectric materials [2] and to benchmark a new implementation within Lobster [3]. Furthermore, I am analysing coordination environments in a robust and automatic manner to understand properties of materials [3]. For example, we have recently assessed the Pauling rules, which connect the coordination environments to the stability of materials [4].
 
 1. [W. Chen, J. George, J. B. Varley, G.-M. Rignanese, G. Hautier, *Npj Comput. Mater.* **2019**, *5*, 72.](https://doi.org/10.1038/s41524-019-0208-x)
+2. [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *Preprint Arxiv*, 2020, URL: https://arxiv.org/abs/2011.09827](https://arxiv.org/abs/2011.09827)
+3. [R. Nelson, C. Ertural, J. George, V. Deringer, G. Hautier, R. Dronskowski, "LOBSTER: Local Orbital Projections, Atomic Charges, and Chemical Bonding Analysis from Projector-Augmented-Wave-Based DFT", *J Comput Chem.* **2020**, *41*, 1931-1940.](https://doi.org/10.1002/jcc.26353) 
+4. [D. Waroquiers, J. George, M. Horton, S. Schenk, K. Persson, G.-M. Rignanese, X. Gonze, G. Hautier, "ChemEnv: A Fast and Robust Coordination Environment, Identification Tool", *Acta Cryst. B* **2020**, *76*, 683.](https://doi.org/10.1107/S2052520620007994) 
+5. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, "The Limited Predictive Power of the Pauling Rules", *Angew. Chem. Int. Ed.* **2020**, *59*, 7569](http://dx.doi.org/10.1002/anie.202000829) 
 
 
 Molecular Crystals:
