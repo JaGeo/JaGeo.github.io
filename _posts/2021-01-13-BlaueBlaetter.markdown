@@ -10,7 +10,8 @@ In the course of 2020, Dr. Markus Suta and I have written five articles on topic
 
 *In the first article, we looked at machine learning and data science for discovering new inorganic materials.
 [https://onlinelibrary.wiley.com/doi/abs/10.1002/nadc.20204093535](https://onlinelibrary.wiley.com/doi/abs/10.1002/nadc.20204093535)
-[![](imags/blaueblaetter_1.png)](https://onlinelibrary.wiley.com/doi/abs/10.1002/nadc.20204093535)
+
+![](images/blaueblaetter_1.png)
 
 *The second article deals with the recipe for narrow-band phosphors.
 [https://onlinelibrary.wiley.com/doi/abs/10.1002/nadc.20204096059](https://onlinelibrary.wiley.com/doi/abs/10.1002/nadc.20204096059)
