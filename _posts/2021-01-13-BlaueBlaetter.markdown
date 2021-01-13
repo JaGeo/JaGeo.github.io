@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lobster workflow in atomate"
+title:  "Nachrichten aus der Chemie"
 date:   2021-01-13 10:00:00 +0100
 preview: I have written several articles for "Nachrichten aus der Chemie" in German. 
 image: images/blaueblaetter_1.png
