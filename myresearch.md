@@ -6,6 +6,7 @@ permalink: /research/
 
 Inorganic Materials:
 --
+I am looking for new materials based on high-throughput computations and data analysis.  
 
 I have implemented tools in [Python Library pymatgen](http://pymatgen.org/) that allow the automated bonding analysis of inorganic materials with the program [Lobster](http://www.cohp.de). These tools were recently used within the high-throughput discovery of a new material for semiconductor spintronics [1] and new ferroelectric materials [2] and to benchmark a new implementation within Lobster [3]. Furthermore, I am analysing coordination environments in a robust and automatic manner to understand properties of materials [3]. For example, we have recently assessed the Pauling rules, which connect the coordination environments to the stability of materials [4].
 
