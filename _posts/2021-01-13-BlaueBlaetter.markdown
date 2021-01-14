@@ -14,7 +14,7 @@ In the course of 2020, Dr. Markus Suta and I have written five articles on topic
 4. In the fourth article, we looked at how temperature can be measured with light. [https://onlinelibrary.wiley.com/doi/10.1002/nadc.20204096060](https://onlinelibrary.wiley.com/doi/10.1002/nadc.20204096060)
 5. The fifth article was mainly written by Jun-Prof. Helge Stein (KIT). This article covers automated materials synthesis to accelerate the discovery of new materials. [https://onlinelibrary.wiley.com/doi/10.1002/nadc.20204096061](https://onlinelibrary.wiley.com/doi/10.1002/nadc.20204096061)
 
-!()[../../../../../images/blaueblaetter_1.png]
 
 
+<img src="../../../../../images/blaueblaetter_1.png" alt="Cover of First Article" title="First Article Cover" width="150" height="100" />
 
