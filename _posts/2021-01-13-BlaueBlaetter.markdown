@@ -3,7 +3,7 @@ layout: post
 title:  "Nachrichten aus der Chemie"
 date:   2021-01-13 10:00:00 +0100
 preview: I have written several articles for "Nachrichten aus der Chemie" in German. 
-image: images/blaueblaetter_1.png
+image: images/blaueblaetter_cover.png
 categories: jekyll update
 ---
 In the course of 2020, Dr. Markus Suta and I have written five articles on topics from inorganic chemistry for "Blickpunkt Anorganik" in the "Nachrichten aus der Chemie" (members' journal of the German Chemical Society).
@@ -24,6 +24,9 @@ In the course of 2020, Dr. Markus Suta and I have written five articles on topic
 
 <div align="center"><img src="../../../../../images/blaueblaetter_5.png" alt="Cover of Fifth Article" title="Fifth Article Cover" width="250" /></div>
 
+* In the sixth article, we write about unusual oxidation states in solid-state materials. [https://onlinelibrary.wiley.com/doi/epdf/10.1002/nadc.20214109053](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nadc.20214109053)
+
+<div align="center"><img src)"../../../../../images/blaueblaetter_5.png" alt="Cover of Sixth Article" title="Sixth Article Cover" width="250" /></div>
 
 
 

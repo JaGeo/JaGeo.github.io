@@ -45,6 +45,7 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
+36. [M. Sutda, J. George, "Ungewöhnliche Oxidationsstufen, (un)gewöhnliche Maßnahmen", *Nachrichten aus der Chemie*, **2021**, *69*, 73-78](https://doi.org/10.1002/nadc.20214109053)
 35. [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *PNAS*, 2021, DOI: 10.1073/pnas.2026020118](https://doi.org/10.1073/pnas.2026020118)
 34. [H. Stein, M. Suta, J George, "Die Materialsynthesemaschine", *Nachrichten aus der Chemie*, **2020**, *68*, 66-69.](https://doi.org/10.1002/nadc.20204096061)
 33. [J. George, G. Hautier, “The chemist versus the machine: traditional knowledge versus machine learning techniques”, *Trends in Chemistry*, **2021**, DOI:10.1016/j.trechm.2020.10.007 ](https://doi.org/10.1016/j.trechm.2020.10.007)
