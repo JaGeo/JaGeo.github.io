@@ -20,7 +20,8 @@ Short CV
 
 Awards
 ======
-* **2021:** Offered Junior Professorship at TU Braunschweig (W1TTW2, declined in favor of the BAM position)) 
+* **2021:** Junior group funding at BAM of around one million Euros for 5 years
+* **2021:** Offered Junior Professorship at TU Braunschweig (W1TTW2, declined in favor of the BAM position) 
 * **2021:** Liebig Fellowship, Fonds der Chemischen Industrie (declined in favor of the BAM position)
 * **2019:** Poster prize, GDCh-Fachgruppe Theoretische Chemie.
   - Poster award at the Symposium on Theoretical Chemistry, University of Rostock, 2019.
