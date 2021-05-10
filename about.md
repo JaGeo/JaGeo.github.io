@@ -10,9 +10,9 @@ permalink: /about/
 
 Short CV
 ========
-<!--* **2018-today:** Post-Doc position in the groups of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) and [Prof. Gian-Marco Rignanese](https://perso.uclouvain.be/gian-marco.rignanese/) at the [Université catholique de Louvain](https://uclouvain.be)-->
-* **January 2020** Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)
-* **2018-today:** Post-Doc position in the group of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) 
+* **May 2021 - today**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Division Materials Chemistry) 
+* **January 2020**: Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)
+* **2018-April 2021:** Post-Doc position in the group of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) 
 * **2013-2017:** Doctorate (Dr. rer. nat, summa cum laude) in Computational Solid-State Chemistry under the supervision of [Prof. Richard Dronskowski](http://www.ssc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de)
 * **2011-2013:** Master of Science in Chemistry (summa cum laude), [RWTH Aachen University](http://www.rwth-aachen.de)
 * **2008-2011:** Bachelor of Science in Chemistry, [RWTH Aachen University](http://www.rwth-aachen.de)
@@ -20,6 +20,8 @@ Short CV
 
 Awards
 ======
+* **2021:** Offered Junior Professorship at TU Braunschweig (W1TTW2, declined in favor of the BAM position)) 
+* **2021:** Liebig Fellowship, Fonds der Chemischen Industrie (declined in favor of the BAM position)
 * **2019:** Poster prize, GDCh-Fachgruppe Theoretische Chemie.
   - Poster award at the Symposium on Theoretical Chemistry, University of Rostock, 2019.
 * **2019:** Marie Skłodowska-Curie Individual Fellowship, European Commission.
@@ -43,11 +45,11 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
-35. [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *Arxiv*, 2020, URL: https://arxiv.org/abs/2011.09827](https://arxiv.org/abs/2011.09827)
+35. [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *PNAS*, 2021, DOI: 10.1073/pnas.2026020118](https://doi.org/10.1073/pnas.2026020118)
 34. [H. Stein, M. Suta, J George, "Die Materialsynthesemaschine", *Nachrichten aus der Chemie*, **2020**, *68*, 66-69.](https://doi.org/10.1002/nadc.20204096061)
 33. [J. George, G. Hautier, “The chemist versus the machine: traditional knowledge versus machine learning techniques”, *Trends in Chemistry*, **2021**, DOI:10.1016/j.trechm.2020.10.007 ](https://doi.org/10.1016/j.trechm.2020.10.007)
 32. [M. Suta, J. George, “Temperatur mit Licht messen“, *Nachrichten aus der Chemie*, **2020**,  *68*, 68-73](https://doi.org/10.1002/nadc.20204096060) 
-31. [R. Hanus, J. George, M. Wood, Y. Cheng, D. L. Abernathy, M. E. Manley, G. Hautier, G. J. Snyder, R. P. Hermann, *ChemRxiv*, **2020**, DOI:v10.26434/chemrxiv.12252056.v1 ](https://doi.org/10.26434/chemrxiv.12252056.v1)
+31. [R. Hanus, J. George, M. Wood, A. Bonkowski, Y. Cheng, D. L. Abernathy, M. E. Manley, G. Hautier, G. J. Snyder, R. P. Hermann, *Materials Today Physics*, **2021**, 100344 ](https://doi.org/10.1016/j.mtphys.2021.100344)
 30. [J George, G Hautier, AP Bartók, G Csányi, VL Deringer, "Combining phonon accuracy with high transferability in Gaussian approximation potential models", *J. Chem. Phys.*, **2020**, *153*, 044104](https://doi.org/10.1063/5.0013826)
 29. [J. George, M. Suta, "Vorhersagen aus Hochdurchsatzstudien", *Nachrichten aus der Chemie*, **2020**, *68*, 80-83](https://doi.org/10.1002/nadc.20204096056)
 28. [M. Suta, J. George, "Das Rezept für schmalbandige Leuchtstoffe", *Nachrichten aus der Chemie*, **2020**, *68*, 54-58](https://doi.org/10.1002/nadc.20204096059)
