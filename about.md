@@ -88,6 +88,15 @@ A. J. Pell, R. Dronskowski, P. Kuśtrowski, A. Slabon, "Exploring the Origins of
 Talks/Posters
 =====
 
+31. March 2021, “Data-driven materials discovery and chemical understanding” Online Seminar in the seminar series “Online-Seminare der GDCh-Fachbruppe Festkörperchemie & Materialforschung“ . 
+30. March 2021, “Towards automated bonding analysis”, Poster at the RSCPoster conference on Twitter: [https://twitter.com/MolecularXtal/status/1366649932745179137?s=20](https://twitter.com/MolecularXtal/status/1366649932745179137?s=20) 
+29. December 2020, “The Limited Predictive Power of the Pauling Rules”, Contributed talk the virtual MRS Fall conference.
+28. September 2020, “Lobster in high-throughput studies.”. Virtual Lobster School, RWTH Aachen University, Germany. [https://twitter.com/rdrons/status/1304439512521682944](https://twitter.com/rdrons/status/1304439512521682944)
+27. September 2020, “Combining Phonon Accuracy with High Transferability in Machine-Learned Interatomic Potentials”, Poster at the ChemicalScience Symposium of the RSC, [https://chemsci20.ipostersessions.com/Default.aspx?s=8A-59-D5-A3-BC-DB-4D-D9-0E-8C-3A-A4-5E-56-16-15](https://chemsci20.ipostersessions.com/Default.aspx?s=8A-59-D5-A3-BC-DB-4D-D9-0E-8C-3A-A4-5E-56-16-15)
+26. September 2020, “Combining Phonon Accuracy with High Transferability in Machine-Learned Interatomic Potentials”, Poster at the Virtual Conference on Inorganic Chemistry. 
+25. August 2020, “Heuristics and ML Potentials for Materials Discovery.” Institute of Condensed Matter Theory and Optics of the University of Jena, Germany.
+24. July 2020: “Combining Phonon Accuracy with High Transferability in Machine-Learned Interatomic Potentials”, Poster at “Virtual Conference on Thermoelectrics”: https://www.twitter.com/MolecularXtal/status/1285364987897303042
+23. March 2020: “The Limited Predictive Power of the Pauling Rules”, Poster at Twitter Conference RSCPoster: www.twitter.com/MolecularXtal/status/1234813845782302720
 22. January 2020: "Accelerated Analysis and Discovery of Materials", Invited Talk in the Solid-State Seminar of the Inorganic Chemistry Laboratory at University of Oxford, UK.
 21. November 2019. "Reassessing Pauling's Rules", Contributed talk at the 15th German Conference on Cheminformatics, Mainz, Germany.
 20. September 2019. "Reassessing Pauling's Rules", Poster at the Symposium on Theoretical Chemistry, University of Rostock, Germany.
