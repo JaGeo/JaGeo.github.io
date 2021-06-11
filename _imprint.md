@@ -9,11 +9,11 @@ Legal Disclosure
 Information in accordance with section 5 TMG
 
 Janine George  
-Lousbergstr. 5  
-52072 Aachen  
+Mecklenburgische Straße 8
+10713 Berlin 
 
 Contact:  
-E-Mail: janine.george(at)rwth-aachen.de 
+E-Mail: janinegeorge.ulfen(at)gmail.com 
 
 Disclaimer
 =========
