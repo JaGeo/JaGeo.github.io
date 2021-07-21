@@ -9,6 +9,7 @@ Legal Disclosure
 Information in accordance with section 5 TMG
 
 Janine George  
+Bundesanstalt für Materialforschung und -prüfung
 Unter den Eichen 87
 12205 Berlin 
 
