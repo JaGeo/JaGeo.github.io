@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Imprint
-permalink: /imprint/
+title: Legal Disclosure 
+permalink: /legal/
 ---
 
 Legal Disclosure
