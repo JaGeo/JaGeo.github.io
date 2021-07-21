@@ -8,12 +8,16 @@ Legal Disclosure
 ================
 Information in accordance with section 5 TMG
 
-Janine George  
+Janine George 
+ 
 Bundesanstalt für Materialforschung und -prüfung
+
 Unter den Eichen 87
+
 12205 Berlin 
 
 Contact:  
+
 E-Mail: janine.george(at)bam.de 
 
 Disclaimer
