@@ -47,6 +47,8 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
+38. [D.F. Dahliah, G. Brunin, J. George, V.A. Ha, G.M. Rignanese, G. Hautier, "High-throughput computational search for high carrier lifetime, defect-tolerant solar absorbers", *Energy Environ. Sci.,*, **2021**, DOI: https://doi.org/10.1039/D1EE00801C](https://doi.org/10.1039/D1EE00801C)
+37. [J. George, "Automation in DFT-based computational materials science", *Trends in Chemistry*, **2021**, DOI: https://doi.org/10.1016/j.trechm.2021.07.001](https://doi.org/10.1016/j.trechm.2021.07.001) 
 36. [M. Suta, J. George, "Ungewöhnliche Oxidationsstufen, (un)gewöhnliche Maßnahmen", *Nachrichten aus der Chemie*, **2021**, *69*, 73-78](https://doi.org/10.1002/nadc.20214109053)
 35. [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *PNAS*, 2021, 118, e2026020118](https://doi.org/10.1073/pnas.2026020118)
 34. [R. Hanus, J. George, M. Wood, A. Bonkowski, Y. Cheng, D. L. Abernathy, M. E. Manley, G. Hautier, G. J. Snyder, R. P. Hermann, *Materials Today Physics*, **2021**, 100344 ](https://doi.org/10.1016/j.mtphys.2021.100344)
