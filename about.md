@@ -10,7 +10,7 @@ permalink: /about/
 
 Short CV
 ========
-* **May 2021 - today**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Division Materials Chemistry) 
+* **May 2021 - today**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Department Materials Chemistry) 
 * **January 2020**: Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)
 * **2018-April 2021:** Post-Doc position in the group of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) 
 * **2013-2017:** Doctorate (Dr. rer. nat, summa cum laude) in Computational Solid-State Chemistry under the supervision of [Prof. Richard Dronskowski](http://www.ssc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de)
