@@ -16,7 +16,7 @@
 title: Dr. Janine George
 email: janine.george(at)bam.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site about me and my research in computational solid state physics and chemistry.
+  Personal site about our research in computational solid state physics and chemistry.
   
   
 baseurl: "" # the subpath of your site, e.g. /blog
