@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Janine George
 permalink: /about/
 ---
 
@@ -47,7 +47,8 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
-38. [D.F. Dahliah, G. Brunin, J. George, V.A. Ha, G.M. Rignanese, G. Hautier, "High-throughput computational search for high carrier lifetime, defect-tolerant solar absorbers", *Energy Environ. Sci.,*, **2021**, DOI: https://doi.org/10.1039/D1EE00801C](https://doi.org/10.1039/D1EE00801C)
+39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. Agne, W. Zeier, *ChemRxiv* **2021**, DOI: 10.33774/chemrxiv-2021-3zxh4](https://doi.org/10.33774/chemrxiv-2021-3zxh4)
+38. [D.F. Dahliah, G. Brunin, J. George, V.A. Ha, G.M. Rignanese, G. Hautier, "High-throughput computational search for high carrier lifetime, defect-tolerant solar absorbers", *Energy Environ. Sci.,*, **2021**, 14, 5057-5073](https://doi.org/10.1039/D1EE00801C)
 37. [J. George, "Automation in DFT-based computational materials science", *Trends in Chemistry*, **2021**, DOI: https://doi.org/10.1016/j.trechm.2021.07.001](https://doi.org/10.1016/j.trechm.2021.07.001) 
 36. [M. Suta, J. George, "Ungewöhnliche Oxidationsstufen, (un)gewöhnliche Maßnahmen", *Nachrichten aus der Chemie*, **2021**, *69*, 73-78](https://doi.org/10.1002/nadc.20214109053)
 35. [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *PNAS*, 2021, 118, e2026020118](https://doi.org/10.1073/pnas.2026020118)

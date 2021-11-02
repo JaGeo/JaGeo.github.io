@@ -7,7 +7,7 @@ image: images/Entwurf3-01.png
 categories: jekyll update
 ---
 
-My German dissertation is now available online: [http://dx.doi.org/10.18154/RWTH-2017-09473](http://dx.doi.org/10.18154/RWTH-2017-09473). The following publications constitute the dissertation:
+Janine's German dissertation is now available online: [http://dx.doi.org/10.18154/RWTH-2017-09473](http://dx.doi.org/10.18154/RWTH-2017-09473). The following publications constitute the dissertation:
 
 - [J. George, R. Wang, U. Englert, R. Dronskowski, *J. Chem. Phys.* **2017**, *147*, 074112.](http://dx.doi.org/10.1063/1.4985886)
 - [J. George, R. Dronskowski, *J. Phys. Chem. A* **2017**, *121*, 1381–1387.](http://dx.doi.org/10.1021/acs.jpca.6b12732)

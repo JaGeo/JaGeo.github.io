@@ -4,20 +4,52 @@ title: Research
 permalink: /research/
 ---
 
-Inorganic Materials:
+Data-driven materials discovery, design and understanding:
 --
-I am looking for new materials based on high-throughput computations and data analysis.  
+Our group is looking for new and imporved materials and a better chemical understanding based on high-throughput computations (mostly density functional theory) and data analysis. 
 
-I have implemented tools in [Python Library pymatgen](http://pymatgen.org/) that allow the automated bonding analysis of inorganic materials with the program [Lobster](http://www.cohp.de). These tools were recently used within the high-throughput discovery of a new material for semiconductor spintronics [1] and new ferroelectric materials [2] and to benchmark a new implementation within Lobster [3]. Furthermore, I am analysing coordination environments in a robust and automatic manner to understand properties of materials [3]. For example, we have recently assessed the Pauling rules, which connect the coordination environments to the stability of materials [4].
+Chemical Heuristics
+===========
+During her postdoc, Janine has worked on testing and developing chemical heuristics (intuitive rules, usually based on limited data) to further the understanding in solid-state chemistry and physics. For example, she has assessed the predictive power of the Pauling rules on the stability of crystal structures. To do so, an automatic tool for the determination of coordination environments has been developed as well. Together with Geoffroy Hautier, she outlined a vision for the development in the field. 
 
-1. [W. Chen, J. George, J. B. Varley, G.-M. Rignanese, G. Hautier, *Npj Comput. Mater.* **2019**, *5*, 72.](https://doi.org/10.1038/s41524-019-0208-x)
-2. [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *Preprint Arxiv*, 2020, URL: https://arxiv.org/abs/2011.09827](https://arxiv.org/abs/2011.09827)
+1. [J. George, G. Hautier, “The chemist versus the machine: traditional knowledge versus machine learning techniques”, *Trends in Chemistry*, **2021**, *3*, 86-95.](https://doi.org/10.1016/j.trechm.2020.10.007) 
+2. [D. Waroquiers, J. George, M. Horton, S. Schenk, K. Persson, G.-M. Rignanese, X. Gonze, G. Hautier, "ChemEnv: A Fast and Robust Coordination Environment, Identification Tool", *Acta Cryst. B* **2020**, *76*, 683.](https://doi.org/10.1107/S2052520620007994) 
+3. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, "The Limited Predictive Power of the Pauling Rules", *Angew. Chem. Int. Ed.* **2020**, *59*, 7569](http://dx.doi.org/10.1002/anie.202000829) 
+
+
+High-throughput searches
+===========
+I have implemented tools in [Python Library pymatgen](http://pymatgen.org/) that allow the automated bonding analysis of inorganic materials with the program [Lobster](http://www.cohp.de). These tools were recently used within the high-throughput discovery of a new material for semiconductor spintronics [1], new ferroelectric materials [2] and photovoltaic materials [4].
+
+
+1. [W. Chen, J. George, J. B. Varley, G.-M. Rignanese, G. Hautier, "High-throughput computational discovery of In2Mn2O7 as a high Curie temperature ferromagnetic semiconductor for spintronics", *Npj Comput. Mater.* **2019**, *5*, 72.](https://doi.org/10.1038/s41524-019-0208-x) 
+2.  [M. Markov, L. Alaerts, H. P. C. Miranda, G. Petretto, W. Chen, J. George, E. Bousquet, P. Ghosez, G.-M. Rignanese, G. Hautier, *PNAS*, 2021, 118, e2026020118](https://doi.org/10.1073/pnas.2026020118)
 3. [R. Nelson, C. Ertural, J. George, V. Deringer, G. Hautier, R. Dronskowski, "LOBSTER: Local Orbital Projections, Atomic Charges, and Chemical Bonding Analysis from Projector-Augmented-Wave-Based DFT", *J Comput Chem.* **2020**, *41*, 1931-1940.](https://doi.org/10.1002/jcc.26353) 
-4. [D. Waroquiers, J. George, M. Horton, S. Schenk, K. Persson, G.-M. Rignanese, X. Gonze, G. Hautier, "ChemEnv: A Fast and Robust Coordination Environment, Identification Tool", *Acta Cryst. B* **2020**, *76*, 683.](https://doi.org/10.1107/S2052520620007994) 
-5. [J. George, D. Waroquiers, D. Di Stefano, G. Petretto, G.-M. Rignanese, G. Hautier, "The Limited Predictive Power of the Pauling Rules", *Angew. Chem. Int. Ed.* **2020**, *59*, 7569](http://dx.doi.org/10.1002/anie.202000829) 
+4. [D.F. Dahliah, G. Brunin, J. George, V.A. Ha, G.M. Rignanese, G. Hautier, "High-throughput computational search for high carrier lifetime, defect-tolerant solar absorbers", *Energy Environ. Sci.,*, **2021**, 14, 5057-5073](https://doi.org/10.1039/D1EE00801C)
+
+Research on Automation in Computational Materials Science
+=====
+Janine is one of the developers of the high-throughput and data-analysis code [pymatgen](http://pymatgen.org/). She has also contributed to [atomate](https://atomate.org/). Janine has recently also written a forum on automation in DFT-based materials science [1].
+
+1. [J. George, "Automation in DFT-based computational materials science", *Trends in Chemistry*, **2021**,3, 697.](https://doi.org/10.1016/j.trechm.2021.07.001)
 
 
-Molecular Crystals:
+Bonding Analysis
+========
+As already described above, we are expert users of the program [Lobster](http://www.cohp.de) and we have also contributed to the testing and automated usage of this program [1].
+
+1. [R. Nelson, C. Ertural, J. George, V. Deringer, G. Hautier, R. Dronskowski, "LOBSTER: Local Orbital Projections, Atomic Charges, and Chemical Bonding Analysis from Projector-Augmented-Wave-Based DFT", *J Comput Chem.* **2020**, *41*, 1931-1940.](https://doi.org/10.1002/jcc.26353)
+ 
+
+Phonons
+======
+Our group also focuses on the computation of phonon (vibrational) properties. We have recently contributed to the understanding of low thermal conductivity in Yb<sub>14</sub>Mn<sub>1</sub>Sb<sub>11</sub> - an important thermoelectric material [1]. We have furthermore helped with the understanding of the relationship between thermal and ionic conductivity [2]. Beyond this, we have also shown that machine-learned interatomic potentials can indeed be used for the computation of accurate phonons for a range of allotropes of Si [3].
+
+1. [R. Hanus, J. George, M. Wood, A. Bonkowski, Y. Cheng, D. L. Abernathy, M. E. Manley, G. Hautier, G. J. Snyder, R. P. Hermann, *Materials Today Physics*, **2021**, 100344 ](https://doi.org/10.1016/j.mtphys.2021.100344)
+2. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. Agne, W. Zeier, *ChemRxiv* **2021**, DOI: 10.33774/chemrxiv-2021-3zxh4](https://doi.org/10.33774/chemrxiv-2021-3zxh4)
+3. [J George, G Hautier, AP Bartók, G Csányi, VL Deringer, "Combining phonon accuracy with high transferability in Gaussian approximation potential models", *J. Chem. Phys.*, **2020**, *153*, 044104](https://doi.org/10.1063/5.0013826)
+
+Research from Janine's PhD time on Molecular Crystals:
 --
 
 We recently reviewed our research on molecular crystals:  [V. L. Deringer, J. George, R. Dronskowski, U. Englert, *Acc. Chem. Res.*, **2017**, *50*, 1231.](http://dx.doi.org/10.1021/acs.accounts.7b00067) 
