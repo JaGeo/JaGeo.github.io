@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Janine 
+title: About Dr.  Janine George
 permalink: /about/
 ---
 
