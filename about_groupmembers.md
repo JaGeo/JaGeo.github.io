@@ -11,6 +11,9 @@ permalink: /about_group/
 PhD Students
 ========
 
-* Aakash Naik
+**Aakash Naik**
+<img hspace="20" align="right" src="../images/aakash.png" width="15%" height="15%">
 
-Aakash is a PhD student in our group. 
+Aakash works on high-throughput bonding analysis.
+
+ 
