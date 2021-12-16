@@ -35,6 +35,6 @@ M. Antonietti, A. Savateev, T. D. Kühne *J. Phys. Chem. C* **2021** DOI: 10.102
 
 
 # Contact
-* Email : [aakash.naik at bam.de](mailto:aakash.naik@bam.de)
+* Email : [aakash.naik(at)bam.de](mailto:aakash.naik@bam.de)
 * LinkedIn : [aakashnaik23](https://www.linkedin.com/in/aakashnaik23/)
  
