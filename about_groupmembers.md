@@ -29,5 +29,12 @@ Application of material simulations and uncover relationships between material p
 * **Oct 2018 - Sept 2021:** Master of Science in Materials Science, [Universität Paderborn](https://www.uni-paderborn.de/en/university/)
 * **Aug 2011 - Jul 2015:** B.E in Automobile Engineering, [University of Mumbai](https://mu.ac.in/)
 
+# Publications
+[Sudhir Kumar Sahoo, Ivo F. Teixeira, Aakash Naik, Julian Heske, Daniel Cruz,
+Markus Antonietti, Aleksandr Savateev and Thomas D. Kühne *The Journal of Physical Chemistry C* **2021** DOI: 10.1021/acs.jpcc.1c03947](https://doi.org/10.1021/acs.jpcc.1c03947)
 
+
+# Contact
+* Email : [aakash.naik at bam.de](mailto:aakash.naik@bam.de)
+* LinkedIn : [aakashnaik23](https://www.linkedin.com/in/aakashnaik23/)
  
