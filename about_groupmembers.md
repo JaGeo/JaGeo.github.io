@@ -31,7 +31,7 @@ Application of material simulations and uncover relationships between material p
 
 # Publications
 [S. Kumar Sahoo, I. F. Teixeira, **A. Naik**, J. Heske, D. Cruz,
-M. Antonietti, A. Savateev and T. D. Kühne *The Journal of Physical Chemistry C* **2021** DOI: 10.1021/acs.jpcc.1c03947](https://doi.org/10.1021/acs.jpcc.1c03947)
+M. Antonietti, A. Savateev, T. D. Kühne *The Journal of Physical Chemistry C* **2021** DOI: 10.1021/acs.jpcc.1c03947](https://doi.org/10.1021/acs.jpcc.1c03947)
 
 
 # Contact
