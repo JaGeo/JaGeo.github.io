@@ -30,7 +30,7 @@ Application of material simulations and uncover relationships between material p
 * **Aug 2011 - Jul 2015:** B.E in Automobile Engineering, [University of Mumbai](https://mu.ac.in/)
 
 # Publications
-* [S. Kumar Sahoo, I. F. Teixeira, **A. Naik**, J. Heske, D. Cruz,
+* [S. K. Sahoo, I. F. Teixeira, **A. Naik**, J. Heske, D. Cruz,
 M. Antonietti, A. Savateev, T. D. Kühne *J. Phys. Chem. C* **2021** DOI: 10.1021/acs.jpcc.1c03947](https://doi.org/10.1021/acs.jpcc.1c03947)
 
 
