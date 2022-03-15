@@ -10,6 +10,30 @@ permalink: /about_group/
 
 ## **PhD Students**
 
+### **Joana Bustamante**
+
+<img hspace="20" align="right" src="../images/JB.jpg" width="20%" height="20%">
+Joana is a computational chemist focused on studing solid-state materials, particulary stability and thermal propeties of inorganic compounds employing Density Functional Theory.
+
+# CV
+
+*   **Jan 2022 - Present :** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (supervision of [Dr. Janine George](https://jageo.github.io/))
+*   **Apr 2019-Sep 2021:** MSc in Applied Chemistry, “Thermodynamics and defects of folded graphene” at [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec/) (supervision of [Dr. Jorge Ontaneda](https://www.sems.qmul.ac.uk/staff/j.ontanedarojas) with colaboration of [Dr. Ricardo Grau-Crespo group](https://www.reading.ac.uk/chemistry/staff/dr-ricardo-grau-crespo))
+*   **Sep 2007–Dec 2013:** BSc. Chemical Engineering, “Catalytic dissociation of NaNO3 on irregular surfaces of Cu, Pd, and Rh: DFT study” at [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec/) (supervision of [Dr. Silvia González Pérez](https://investigacion.utpl.edu.ec/es/sgonzalez))
+
+
+# Publications
+
+1.  Cadmen, N.; **Bustamante, J**.; Rivera, R.; Torres, F.; Ontaneda, J. Dopamine Adsorption on Rutile TiO2(110): Geometry, Thermodynamics, and Core-Level Shifts from First Principles. _ACS Omega_.  **2022**, 7(5): 4185-4193 [DOI:10.1021/acsomega.1c05784 ](https://doi.org/10.1021/acsomega.1c05784)
+2.  Posligua, V.; **Bustamante, J**.; Zambrano, C.H.; Harris, P.J.F.; Grau-Crespo, R. The closed-edge structure of graphite and the effect of electrostatic charging._RSC Adv_. **2020**, 10, 7994–8001. [DOI:10.1039/C9RA09913A](https://pubs.rsc.org/en/content/articlelanding/2020/RA/C9RA09913A) 
+3.  González, S.; Toledo, J.; **Bustamante, J**. Fisicoquímica: un nuevo enfoque por competencias. In; Patria, Ed.; Editorial Patria, **2019** [ISBN 9786075501758](https://www.elsotano.com/libro/fisicoquimica-un-nuevo-enfoque-por-competencias_10567689)
+
+
+
+# Contact
+* Email : [joana.bustamante@bam.de](mailto:joana.bustamante@bam.de)
+* ResearchGate : [Joana Bustamante](https://www.researchgate.net/profile/Joana-Bustamante)
+
 
 ### **Aakash Naik**
 <img hspace="20" align="right" src="../images/aakash.png" width="15%" height="15%">
@@ -38,9 +62,4 @@ M. Antonietti, A. Savateev, T. D. Kühne *J. Phys. Chem. C* **2021** DOI: 10.102
 * Email : [aakash.naik(at)bam.de](mailto:aakash.naik@bam.de)
 * LinkedIn : [aakashnaik23](https://www.linkedin.com/in/aakashnaik23/)
 
-### **Joana Cecibel Bustamante Pineda**
 
-More information on Joana will follow soon.
-
-# Contact
-* Email: [joana-cecibel.bustamante-pineda(at)bam.de](joana-cecibel.bustamante-pineda@bam.de)
