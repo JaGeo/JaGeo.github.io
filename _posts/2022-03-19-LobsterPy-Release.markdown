@@ -6,7 +6,7 @@ preview: We released the first version of LobsterPy for automatic analysis of Lo
 image: images/LobsterPy.png
 categories: jekyll update
 ---
-You can find LobsterPy [here](https://github.com/JaGeo/LobsterPy)
+LobsterPy allows to automatically anayze outputs from Lobster. You can also plot COHPs nicely. You can find LobsterPy [here](https://github.com/JaGeo/LobsterPy). You can also install it via "pip install lobsterpy".
 
 
 
