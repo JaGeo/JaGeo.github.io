@@ -6,6 +6,6 @@ layout: home
 ---
 
 <img hspace="20" align="right" src="images/me.jpg" width="40%" height="40%">
-<p align="justify">This is the website of the junior group "Computational Materials Design" at the <a href="https://www.bam.de/Navigation/EN/Home/home.html">Federal Intitute for Materials Research and Testing in Germany</a> (CMD@BAM) headed by Dr. Janine George. On this website, you will find information on our research, the group and Janine. Our current research focuses on data analysis and high-throughput computing for materials discovery. We are also experts in electronic structure computations, computational bonding analysis and phonon computations.</p>
+<p align="justify">This is the website of the junior group "Computational Materials Design" at the <a href="https://www.bam.de/Navigation/EN/Home/home.html">Federal Intitute for Materials Research and Testing in Germany</a> (CMD@BAM) headedch is also associated with the <a href="https://www.uni-jena.de/">FSU Jena</a> by Dr. Janine George. On this website, you will find information on our research, the group and Janine. Our current research focuses on data analysis and high-throughput computing for materials discovery. We are also experts in electronic structure computations, computational bonding analysis and phonon computations.</p>
 
 
