@@ -47,7 +47,8 @@ Publications
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
 
-39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. Agne, W. Zeier, *ChemRxiv* **2021**, DOI: 10.33774/chemrxiv-2021-3zxh4](https://doi.org/10.33774/chemrxiv-2021-3zxh4)
+40. [J. George, G. Petretto, A. Naik, M. Esters, A. J. Jackson, R. Nelson, R. Dronskowski, G.-M. Rignanese, G. Hautier, **2022**, DOI 10.26434/chemrxiv-2022-2v424.](https://doi.org/10.26434/chemrxiv-2022-2v424)
+39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. T. Agne, W. G. Zeier, Advanced Energy Materials **2022**, n/a, 2200717.](https://doi.org/10.1002/aenm.202200717)
 38. [D.F. Dahliah, G. Brunin, J. George, V.A. Ha, G.M. Rignanese, G. Hautier, "High-throughput computational search for high carrier lifetime, defect-tolerant solar absorbers", *Energy Environ. Sci.,*, **2021**, 14, 5057-5073](https://doi.org/10.1039/D1EE00801C)
 37. [J. George, "Automation in DFT-based computational materials science", *Trends in Chemistry*, **2021**, DOI: https://doi.org/10.1016/j.trechm.2021.07.001](https://doi.org/10.1016/j.trechm.2021.07.001) 
 36. [M. Suta, J. George, "Ungewöhnliche Oxidationsstufen, (un)gewöhnliche Maßnahmen", *Nachrichten aus der Chemie*, **2021**, *69*, 73-78](https://doi.org/10.1002/nadc.20214109053)
@@ -92,6 +93,13 @@ A. J. Pell, R. Dronskowski, P. Kuśtrowski, A. Slabon, "Exploring the Origins of
 Talks/Posters
 =====
 
+
+37. January 2022, "Accelerated materials discovery with data analysis and machine learning", Seminar for Chemistry Students at TU Berlin.
+36. November 2021, "New chemical understanding with the help of automation and highthroughput computations", Invited Lecture at the Workshop "High-throughput workflows for materials science with the Atomic Simulation Environment (ASE) and Fireworks", Lyngby, Denmark. 
+35. November 2021, "Automation in Computational Materials Science", NOA Lecture at the FSU Jena.
+34. September 2021,"Automation in Computational Materials Science", Invited online talk for the SALSA School 2021
+33. June 2021, "Automatisierung in der Computerchemie", Online Workshop of the Förderverein Chemieolympiade.
+32. June 2021, "Data-driven materials discovery and understanding", ETFS Seminar.
 31. March 2021, “Data-driven materials discovery and chemical understanding” Online Seminar in the seminar series “Online-Seminare der GDCh-Fachbruppe Festkörperchemie & Materialforschung“ . 
 30. March 2021, “Towards automated bonding analysis”, Poster at the RSCPoster conference on Twitter: [https://twitter.com/MolecularXtal/status/1366649932745179137?s=20](https://twitter.com/MolecularXtal/status/1366649932745179137?s=20) 
 29. December 2020, “The Limited Predictive Power of the Pauling Rules”, Contributed talk the virtual MRS Fall conference.
@@ -129,8 +137,6 @@ Fritz-Haber-Institut in Berlin, Germany.
 ts/workshops.html) at the TU Dresden, Germany.
 1. January 2014 "Quantenchemische Untersuchungen intermolekularer Wechselwirkungen des Brommalonaldehyds", Talk at the [Workshop of the Förderverein Chemieolympiade](https://www.fcho.de/en/projec
 ts/workshops.html) at the Universität Münster, Germany.
-
-
 
 
 Programming Projects
