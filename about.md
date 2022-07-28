@@ -46,9 +46,9 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
-
-40. [J. George, G. Petretto, A. Naik, M. Esters, A. J. Jackson, R. Nelson, R. Dronskowski, G.-M. Rignanese, G. Hautier, **2022**, DOI 10.26434/chemrxiv-2022-2v424.](https://doi.org/10.26434/chemrxiv-2022-2v424)
-39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. T. Agne, W. G. Zeier, Advanced Energy Materials **2022**, n/a, 2200717.](https://doi.org/10.1002/aenm.202200717)
+41. [M. Arnold, J. Katzmann, A. Naik, A. L. Görne, T. Härtling, J. George, C. Schuster, J. Mater. Chem. C 2022, DOI 10.1039/D2TC01773C.](https://doi.org/10.1039/D2TC01773C)
+40. [J. George, G. Petretto, A. Naik, M. Esters, A. J. Jackson, R. Nelson, R. Dronskowski, G.-M. Rignanese, G. Hautier, *ChemPlusChem*, **2022**, e202200123.](https://doi.org/10.1002/cplu.202200123)
+39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. T. Agne, W. G. Zeier, Advanced Energy Materials **2022**, 12, 2200717.](https://doi.org/10.1002/aenm.202200717)
 38. [D.F. Dahliah, G. Brunin, J. George, V.A. Ha, G.M. Rignanese, G. Hautier, "High-throughput computational search for high carrier lifetime, defect-tolerant solar absorbers", *Energy Environ. Sci.,*, **2021**, 14, 5057-5073](https://doi.org/10.1039/D1EE00801C)
 37. [J. George, "Automation in DFT-based computational materials science", *Trends in Chemistry*, **2021**, DOI: https://doi.org/10.1016/j.trechm.2021.07.001](https://doi.org/10.1016/j.trechm.2021.07.001) 
 36. [M. Suta, J. George, "Ungewöhnliche Oxidationsstufen, (un)gewöhnliche Maßnahmen", *Nachrichten aus der Chemie*, **2021**, *69*, 73-78](https://doi.org/10.1002/nadc.20214109053)
@@ -92,8 +92,10 @@ A. J. Pell, R. Dronskowski, P. Kuśtrowski, A. Slabon, "Exploring the Origins of
 
 Talks/Posters
 =====
-
-
+41. July 2022, "Mit künstlicher Intelligenz neue Materialien suchen", Hansenberg Summit, [https://www.hansenberg.de/lernen/hansenberg-summit/summit-2022.html](https://www.hansenberg.de/lernen/hansenberg-summit/summit-2022.html)
+40. July 2022, “Data-driven chemical understanding”, Workshop Machine Learning in Chemistry Organized by the Graduate School Chemistry in Paris, France. [https://gs-chem13.sciencesconf.org/](https://gs-chem13.sciencesconf.org/) 
+39. June 2022, "Automated Bonding Analysis based on Crystal Orbital Hamilton Populations", Poster at Sommersymposium of Förderverein Chemieolympiade.
+38. May 2022, “Data-driven chemical understanding”, https://youtu.be/e7zYrz6fgog, Online Seminar for the Users of the Materials Project [https://next-gen.materialsproject.org/community/seminar](https://next-gen.materialsproject.org/community/seminar)
 37. January 2022, "Accelerated materials discovery with data analysis and machine learning", Seminar for Chemistry Students at TU Berlin.
 36. November 2021, "New chemical understanding with the help of automation and highthroughput computations", Invited Lecture at the Workshop "High-throughput workflows for materials science with the Atomic Simulation Environment (ASE) and Fireworks", Lyngby, Denmark. 
 35. November 2021, "Automation in Computational Materials Science", NOA Lecture at the FSU Jena.
