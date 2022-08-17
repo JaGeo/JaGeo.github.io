@@ -13,7 +13,7 @@ permalink: /about_group/
 ### **Joana Bustamante**
 
 <img hspace="20" align="right" src="../images/JB.jpg" width="20%" height="20%">
-Joana is a computational chemist focused on studing solid-state materials, particulary stability and thermal propeties of inorganic compounds employing Density Functional Theory.
+Joana is a computational chemist focused on studying solid-state materials, particulary stability and thermal propeties of inorganic compounds employing Density Functional Theory.
 
 # CV
 
@@ -41,7 +41,7 @@ Joana is a computational chemist focused on studing solid-state materials, parti
 
 ### **Aistė Miliūtė**
 <img hspace="20" align="right" src="../images/aiste.jpg" width="20%" height="20%">
-Aistė works on ab-initio and experimental investigations to analyse ngative thermal expansion properties in materials.
+Aistė works on ab-initio and experimental investigations to analyse negative thermal expansion properties in materials.
 
 # Interests
 
@@ -106,8 +106,9 @@ Application of material simulations and uncover relationships between material p
 * **Aug 2011 - Jul 2015:** B.E in Automobile Engineering, [University of Mumbai](https://mu.ac.in/)
 
 # Publications
-* [S. K. Sahoo, I. F. Teixeira, **A. Naik**, J. Heske, D. Cruz,
-M. Antonietti, A. Savateev, T. D. Kühne *J. Phys. Chem. C* **2021** DOI: 10.1021/acs.jpcc.1c03947](https://doi.org/10.1021/acs.jpcc.1c03947)
+* [M. Arnold, J. Katzmann, A. Naik, A. Görne, T. Härtling, J. George, C. Schuster, Journal of Materials Chemistry C 2022](https://doi.org/10.1039/D2TC01773C)
+* [J. George, G. Petretto, A. Naik, M. Esters, A. Jackson, R. Nelson, R. Dronskowski, G. Rignanese, G. Hautier, ChemPlusChem 2022](https://doi.org/10.1002/cplu.202200123)
+* [S. Sahoo, I. Teixeira, A. Naik, J. Heske, D. Cruz, M. Antonietti, A. Savateev, T. Kühne, The Journal of Physical Chemistry C 2021, 125, 13749-13758.](https://doi.org/10.1021/acs.jpcc.1c03947)
 
 
 # Contact
