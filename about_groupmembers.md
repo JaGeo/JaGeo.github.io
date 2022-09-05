@@ -115,4 +115,36 @@ Application of material simulations and uncover relationships between material p
 * Email : [aakash.naik(at)bam.de](mailto:aakash.naik@bam.de)
 * LinkedIn : [aakashnaik23](https://www.linkedin.com/in/aakashnaik23/)
 
+## **PostDocs**
+
+### **Dr. Christina Ertural**
+<img hspace="20" align="right" src="https://github.com/QuantumChemist/QuantumChemist.github.io/blob/main/utils/pic.jpg?raw=true" width="15%" height="15%">
+
+Christina works on the quantum-chemical aided determination of the electronic structure of functional solid-state materials. The focus lies on the application of different chemical bonding indicators as well as employing machine learning and automatization techniques.
+
+# Interests
+Relationship between macroscopic materials' properties and atomistic behaviour.
+
+# CV
+
+* **Sep 2022 - Present:** “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of Dr. Janine George)
+* **Dec 2017 - Jul 2022:** PhD Student and [LOBSTER](https:/www.cohp.de/) developer of "Chair of Solid-State and Quantum Chemistry" at [RWTH Aachen University](https://www.rwth-aachen.de/) (group of [Prof. Dr. Richard Dronskowski](http://www.ssc.rwth-aachen.de/)). Thesis (in German) available [here](https://publications.rwth-aachen.de/record/849333).
+* **Oct 2011 - Nov 2017:** B. Sc. and M. Sc. in Chemistry at [RWTH Aachen University](https://www.rwth-aachen.de/).</li>
+
+# Publications
+* [M. F. Hoedl, C. Ertural, R. Merkle, R. Dronskowski, J. Maier; J. Phys. Chem. C. 2022.](https://doi.org/10.1021/acs.jpcc.2c02545)
+* [C. Ertural, R. P. Stoffel, P. C. Müller, C. A. Vogt, R. Dronskowski; Chem. Mater. 2022.](https://doi.org/10.1021/acs.chemmater.1c03349)
+* [J. Hempelmann, P. C. Müller, C. Ertural, R. Dronskowski; Angew. Chem. 2022.](https://doi.org/10.1002/anie.202115778)
+* [P. C. Müller, C. Ertural, J. Hempelmann, R. Dronskowski; J. Phys. Chem. 2021.](https://doi.org/10.1021/acs.jpcc.1c00718)
+* [R. Nelson, C. Ertural, J. George, V. L. Deringer, G. Hautier, R. Dronskowski; J. Comp. Chem. 2020.](https://doi.org/10.1002/jcc.26353)
+* [X.-P. Wang, X.-B. Li, N.-K. Chen, J. Bang, R. Nelson, C. Ertural, R. Dronskowski, H.-B. Sun, S. Zhang; npj Comput. Mater. 2020.](https://doi.org/10.1038/s41524-020-0303-z)
+* [X. Sun, X. Li, J. Yang, J. Xi, R. Nelson, C. Ertural, R. Dronskowski, W. Liu, G. J. Snyder, D. J. Singh, W. Zhang; J. Comp. Chem. 2019.](https://doi.org/10.1002/jcc.25822)
+* [C. Ertural, S. Steinberg, R. Dronskowski; RSC Adv. 2019.](https://doi.org/10.1039/C9RA05190B)
+* [W. L. Li, C. Ertural, D. Bogdanovski, J. Li, R. Dronskowski; Inorg. Chem. 2018.](https://doi.org/10.1021/acs.inorgchem.8b02263)
+
+# Contact
+* Email : [christina.ertural(at)bam.de](mailto:christina.ertural@bam.de)
+* ResearchGate : [Christina-Ertural](https://www.researchgate.net/profile/Christina-Ertural)
+
+
 
