@@ -115,7 +115,7 @@ Application of material simulations and uncover relationships between material p
 * Email : [aakash.naik(at)bam.de](mailto:aakash.naik@bam.de)
 * LinkedIn : [aakashnaik23](https://www.linkedin.com/in/aakashnaik23/)
 
-# **PostDocs**
+## **PostDocs**
 
 ### **Dr. Christina Ertural**
 <img hspace="20" align="right" src="https://github.com/QuantumChemist/QuantumChemist.github.io/blob/main/utils/pic.jpg?raw=true" width="15%" height="15%">
