@@ -120,7 +120,7 @@ Application of material simulations and uncover relationships between material p
 ### **Dr. Christina Ertural**
 <img hspace="20" align="right" src="https://github.com/QuantumChemist/QuantumChemist.github.io/blob/main/utils/pic.jpg?raw=true" width="15%" height="15%">
 
-Christina works on the quantum-chemical aided determination of the electronic structure of functional solid-state materials. The focus lies on the application of different chemical bonding indicators as well as employing machine learning and automatization techniques.
+Christina works on the quantum-chemical aided determination of the electronic structure of functional solid-state materials. The focus lies on the application of different chemical bonding indicators as well as employing machine learning and automation techniques.
 
 # Interests
 Relationship between macroscopic materials' properties and atomistic behaviour.
@@ -129,7 +129,7 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 
 * **Sep 2022 - Present:** “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of Dr. Janine George)
 * **Dec 2017 - Jul 2022:** PhD Student and [LOBSTER](https:/www.cohp.de/) developer of "Chair of Solid-State and Quantum Chemistry" at [RWTH Aachen University](https://www.rwth-aachen.de/) (group of [Prof. Dr. Richard Dronskowski](http://www.ssc.rwth-aachen.de/)). Thesis (in German) available [here](https://publications.rwth-aachen.de/record/849333).
-* **Oct 2011 - Nov 2017:** B. Sc. and M. Sc. in Chemistry at [RWTH Aachen University](https://www.rwth-aachen.de/).</li>
+* **Oct 2011 - Nov 2017:** B. Sc. and M. Sc. in Chemistry at [RWTH Aachen University](https://www.rwth-aachen.de/).
 
 # Publications
 * [M. F. Hoedl, C. Ertural, R. Merkle, R. Dronskowski, J. Maier; J. Phys. Chem. C. 2022.](https://doi.org/10.1021/acs.jpcc.2c02545)
