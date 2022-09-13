@@ -14,6 +14,7 @@ Short CV
 * **January 2020**: Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)
 * **2018-April 2021:** Post-Doc position in the groups of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) ([now at Darthmouth College](https://engineering.dartmouth.edu/community/faculty/geoffroy-hautier)) and [Prof. Gian-Marco Rignanese](https://perso.uclouvain.be/gian-marco.rignanese/) at the [Université catholique de Louvain](https://uclouvain.be) 
 * **2013-2017:** Doctorate (Dr. rer. nat, summa cum laude) in Computational Solid-State Chemistry under the supervision of [Prof. Richard Dronskowski](http://www.ssc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de)
+* **2012-2017:** Courses in Computational Science at the Bachelor and Master of Science Level at Fernuni Hagen
 * **2011-2013:** Master of Science in Chemistry (summa cum laude), [RWTH Aachen University](http://www.rwth-aachen.de)
 * **2008-2011:** Bachelor of Science in Chemistry, [RWTH Aachen University](http://www.rwth-aachen.de)
 * **2005-2008:** Abitur at the [Internatsschule Schloss Hansenberg](https://www.hansenberg.de/) 
