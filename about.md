@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img hspace="20" align="right" src="images/me.jpg" width="40%" height="40%">
+<img hspace="20" align="right" src="../images/me.jpg" width="40%" height="40%">
 
 
 Short CV
