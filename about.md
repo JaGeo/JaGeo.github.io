@@ -47,9 +47,9 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
-41. [M. Arnold, J. Katzmann, A. Naik, A. L. Görne, T. Härtling, J. George, C. Schuster, J. Mater. Chem. C 2022, DOI 10.1039/D2TC01773C.](https://doi.org/10.1039/D2TC01773C)
-40. [J. George, G. Petretto, A. Naik, M. Esters, A. J. Jackson, R. Nelson, R. Dronskowski, G.-M. Rignanese, G. Hautier, *ChemPlusChem*, **2022**, e202200123.](https://doi.org/10.1002/cplu.202200123)
-39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. T. Agne, W. G. Zeier, Advanced Energy Materials **2022**, 12, 2200717.](https://doi.org/10.1002/aenm.202200717)
+41. [M. Arnold, J. Katzmann, A. Naik, A. L. Görne, T. Härtling, J. George, C. Schuster, ""Investigations on electron beam irradiated rare-earth doped SrF 2 for application as low fading dosimeter material: evidence for and DFT simulation of a radiation-induced phase, *J. Mater. Chem. C* **2022**, DOI 10.1039/D2TC01773C.](https://doi.org/10.1039/D2TC01773C)
+40. [J. George, G. Petretto, A. Naik, M. Esters, A. J. Jackson, R. Nelson, R. Dronskowski, G.-M. Rignanese, G. Hautier, "Automated Bonding Analysis with Crystal Orbital Hamilton Populations", *ChemPlusChem*, **2022**, e202200123.](https://doi.org/10.1002/cplu.202200123)
+39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. T. Agne, W. G. Zeier, "Considering the Role of Ion Transport in Diffuson‐Dominated Thermal Conductivity", Advanced Energy Materials **2022**, 12, 2200717.](https://doi.org/10.1002/aenm.202200717)
 38. [D.F. Dahliah, G. Brunin, J. George, V.A. Ha, G.M. Rignanese, G. Hautier, "High-throughput computational search for high carrier lifetime, defect-tolerant solar absorbers", *Energy Environ. Sci.,*, **2021**, 14, 5057-5073](https://doi.org/10.1039/D1EE00801C)
 37. [J. George, "Automation in DFT-based computational materials science", *Trends in Chemistry*, **2021**, DOI: https://doi.org/10.1016/j.trechm.2021.07.001](https://doi.org/10.1016/j.trechm.2021.07.001) 
 36. [M. Suta, J. George, "Ungewöhnliche Oxidationsstufen, (un)gewöhnliche Maßnahmen", *Nachrichten aus der Chemie*, **2021**, *69*, 73-78](https://doi.org/10.1002/nadc.20214109053)
@@ -149,8 +149,8 @@ Programming Projects
    - Classes for the evaluation/plotting of the output files from [Lobster](http://www.cohp.de)  - a tool for bonding analysis in crystals
    - A [tutorial](http://matgenb.materialsvirtuallab.org/2019/01/11/How-to-plot-and-evaluate-output-files-from-Lobster.html) on the evaluation of the output files from [Lobster](http://www.cohp.de) - a tool for bonding analysis in crystals
    - A [tutorial](http://matgenb.materialsvirtuallab.org/2018/01/01/ChemEnv-How-to-automatically-identify-coordination-environments-in-a-structure.html) on the use of the ChemEnv package included in pymatgen 
-
-
+2. Contributions to [atomate2](https://materialsproject.github.io/atomate2/) and [atomate](https://atomate.org/)
+   - Lobster and phonon workflow 
 - During my Doctorate and currently:
 1. Development of the [Molecular Toolbox](https://github.com/JaGeo/MolecularToolbox) - a package that converts anisotropic displacement parameters from one parametrization to another 
 2. Development of [AtomicContributions](https://github.com/JaGeo/AtomicContributions) -  a package to visualize the atomic contributions to each phonon mode
