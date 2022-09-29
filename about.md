@@ -145,12 +145,13 @@ ts/workshops.html) at the Universität Münster, Germany.
 Programming Projects
 =========
 - Currently:
-1. Contributions to the [pymatgen library](http://pymatgen.org/)
-   - Classes for the evaluation/plotting of the output files from [Lobster](http://www.cohp.de)  - a tool for bonding analysis in crystals
-   - A [tutorial](http://matgenb.materialsvirtuallab.org/2019/01/11/How-to-plot-and-evaluate-output-files-from-Lobster.html) on the evaluation of the output files from [Lobster](http://www.cohp.de) - a tool for bonding analysis in crystals
-   - A [tutorial](http://matgenb.materialsvirtuallab.org/2018/01/01/ChemEnv-How-to-automatically-identify-coordination-environments-in-a-structure.html) on the use of the ChemEnv package included in pymatgen 
-2. Contributions to [atomate2](https://materialsproject.github.io/atomate2/) and [atomate](https://atomate.org/)
-   - Lobster and phonon workflow 
+   1. Contributions to the [pymatgen library](http://pymatgen.org/)
+      - Classes for the evaluation/plotting of the output files from [Lobster](http://www.cohp.de)  - a tool for bonding analysis in crystals
+      - A [tutorial](http://matgenb.materialsvirtuallab.org/2019/01/11/How-to-plot-and-evaluate-output-files-from-Lobster.html) on the evaluation of the output files from [Lobster](http://www.cohp.de) - a tool for bonding analysis in crystals
+      - A [tutorial](http://matgenb.materialsvirtuallab.org/2018/01/01/ChemEnv-How-to-automatically-identify-coordination-environments-in-a-structure.html) on the use of the ChemEnv package included in pymatgen 
+   2. Contributions to [atomate2](https://materialsproject.github.io/atomate2/) and [atomate](https://atomate.org/)
+      - Lobster and phonon workflow 
+
 - During my Doctorate and currently:
 1. Development of the [Molecular Toolbox](https://github.com/JaGeo/MolecularToolbox) - a package that converts anisotropic displacement parameters from one parametrization to another 
 2. Development of [AtomicContributions](https://github.com/JaGeo/AtomicContributions) -  a package to visualize the atomic contributions to each phonon mode
