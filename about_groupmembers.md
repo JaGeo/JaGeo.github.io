@@ -132,6 +132,7 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 * **Oct 2011 - Nov 2017:** B. Sc. and M. Sc. in Chemistry at [RWTH Aachen University](https://www.rwth-aachen.de/).
 
 # Publications
+* [A. J. Corkett, Z. Chen, C. Ertural, A. Slabon, R. Dronskowski; Inorg. Chem., 2022](https://doi.org/10.1021/acs.inorgchem.2c03043)
 * [R. Nelson, C. Ertural, P. C. Müller, R. Dronskowski; Comprehensive Inorganic Chemistry III, 2022](https://doi.org/10.1016/B978-0-12-823144-9.00120-5)
 * [M. F. Hoedl, C. Ertural, R. Merkle, R. Dronskowski, J. Maier; J. Phys. Chem. C. 2022.](https://doi.org/10.1021/acs.jpcc.2c02545)
 * [C. Ertural, R. P. Stoffel, P. C. Müller, C. A. Vogt, R. Dronskowski; Chem. Mater. 2022.](https://doi.org/10.1021/acs.chemmater.1c03349)
