@@ -144,6 +144,10 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 * [C. Ertural, S. Steinberg, R. Dronskowski; RSC Adv. 2019.](https://doi.org/10.1039/C9RA05190B)
 * [W. L. Li, C. Ertural, D. Bogdanovski, J. Li, R. Dronskowski; Inorg. Chem. 2018.](https://doi.org/10.1021/acs.inorgchem.8b02263)
 
+Reviewer for:
+============
+* [Physical Chemistry Chemical Physics (PCCP)](https://www.rsc.org/journals-books-databases/about-journals/pccp/)
+
 # Contact
 * Email : [christina.ertural(at)bam.de](mailto:christina.ertural@bam.de)
 * ResearchGate : [Christina-Ertural](https://www.researchgate.net/profile/Christina-Ertural)
