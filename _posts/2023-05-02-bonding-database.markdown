@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Quantum-Chemical Bonding Database for Solid-State Materials"
-date:   2022-06-02 10:00:00 +0100
+date:   2023-05-02 10:00:00 +0100
 preview: Our group released a quantum-chemical bonding database for reuse. 
 image: images/database.png
 categories: jekyll update
