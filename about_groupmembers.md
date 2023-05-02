@@ -147,6 +147,9 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 Reviewer for:
 ============
 * [Physical Chemistry Chemical Physics (PCCP)](https://www.rsc.org/journals-books-databases/about-journals/pccp/)
+* [Journal of Materials Chemistry A](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-a/)
+* [Inorganic Chemistry Frontiers](https://www.rsc.org/journals-books-databases/about-journals/inorganic-chemistry-frontiers/)
+* [Materials Horizons](https://www.rsc.org/journals-books-databases/about-journals/materials-horizons/)
 
 # Contact
 * Email : [christina.ertural(at)bam.de](mailto:christina.ertural@bam.de)
