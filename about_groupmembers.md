@@ -118,7 +118,7 @@ Applying material simulations and uncovering relationships between material prop
 ## **PostDocs**
 
 ### **Dr. Christina Ertural**
-<img hspace="20" align="right" src="https://github.com/QuantumChemist/QuantumChemist.github.io/blob/main/utils/pic.jpg?raw=true" width="15%" height="15%">
+<img hspace="20" align="right" src="https://github.com/QuantumChemist/QuantumChemist.github.io/blob/main/utils/pic.png?raw=true" width="15%" height="15%">
 
 Christina works on the quantum-chemical aided determination of the electronic structure of functional solid-state materials. The focus lies on the application of different chemical bonding indicators as well as employing machine learning and automation techniques.
 
@@ -146,6 +146,7 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 
 Reviewer for:
 ============
+* [Angewandte Chemie](https://onlinelibrary.wiley.com/journal/15213773)
 * [Physical Chemistry Chemical Physics (PCCP)](https://www.rsc.org/journals-books-databases/about-journals/pccp/)
 * [Journal of Materials Chemistry A](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-a/)
 * [Inorganic Chemistry Frontiers](https://www.rsc.org/journals-books-databases/about-journals/inorganic-chemistry-frontiers/)
