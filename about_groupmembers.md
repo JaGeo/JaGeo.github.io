@@ -114,6 +114,7 @@ Applying material simulations and uncovering relationships between material prop
 # Contact
 * Email : [aakash.naik(at)bam.de](mailto:aakash.naik@bam.de)
 * LinkedIn : [aakashnaik23](https://www.linkedin.com/in/aakashnaik23/)
+* Website : [aakashnaik23.de](https://www.aakashnaik23.de/)
 
 ## **PostDocs**
 
