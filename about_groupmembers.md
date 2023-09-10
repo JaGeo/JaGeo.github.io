@@ -148,6 +148,7 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 Reviewer for:
 ============
 * [Angewandte Chemie](https://onlinelibrary.wiley.com/journal/15213773)
+* [npj Computational Materials](https://www.nature.com/npjcompumats/)
 * [Physical Chemistry Chemical Physics (PCCP)](https://www.rsc.org/journals-books-databases/about-journals/pccp/)
 * [Journal of Materials Chemistry A](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-a/)
 * [Inorganic Chemistry Frontiers](https://www.rsc.org/journals-books-databases/about-journals/inorganic-chemistry-frontiers/)
