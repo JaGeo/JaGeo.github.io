@@ -17,7 +17,7 @@ Joana is a computational chemist focused on studying solid-state materials, part
 
 # CV
 
-*   **Jan 2022 - Present :** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (supervision of [Dr. Janine George](https://jageo.github.io/))
+*   **Jan 2022 - Present :** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (supervision of [Prof. Dr. Janine George](https://jageo.github.io/))
 *   **Apr 2019-Sep 2021:** MSc in Applied Chemistry, “Thermodynamics and defects of folded graphene” at [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec/) (supervision of [Dr. Jorge Ontaneda](https://www.sems.qmul.ac.uk/staff/j.ontanedarojas) with colaboration of [Dr. Ricardo Grau-Crespo group](https://www.reading.ac.uk/chemistry/staff/dr-ricardo-grau-crespo))
 *   **Sep 2007–Dec 2013:** BSc. Chemical Engineering, “Catalytic dissociation of NaNO3 on irregular surfaces of Cu, Pd, and Rh: DFT study” at [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec/) (supervision of [Dr. Silvia González Pérez](https://investigacion.utpl.edu.ec/es/sgonzalez))
 
@@ -50,7 +50,7 @@ Relationships between materials crystallographic structure and its properties.
 
 # Education
 
-*   **March 2021 - Present:** PhD Student at the [Federal Institute for Materials Research and Testing, Berlin, Germany](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Dr.-Ing. Björn Mieller](https://www.researchgate.net/profile/Bjoern-Mieller), [Dr. Janine George](https://jageo.github.io/), [Dr. Tomasz Stawski](https://www.researchgate.net/profile/Tomasz-Stawski))
+*   **March 2021 - Present:** PhD Student at the [Federal Institute for Materials Research and Testing, Berlin, Germany](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Dr.-Ing. Björn Mieller](https://www.researchgate.net/profile/Bjoern-Mieller), [Prof. Dr. Janine George](https://jageo.github.io/), [Dr. Tomasz Stawski](https://www.researchgate.net/profile/Tomasz-Stawski))
 *   **2019 – 2021:** Master in 'Materials Science Exploring Large Scale Facilities' at the University of Montpellier, France and University of Torino, Italy.
 *   **2014 – 2018:** Bachelor in 'Chemistry of Nanomaterials' at the Vilnius University, Lithuania. 
 *   Subject Pedagogy adjacent studies at the Faculty of Philosophy, Vilnius University, Lithuania (graduated 2018-01-26).
@@ -97,7 +97,7 @@ Applying material simulations and uncovering relationships between material prop
 
 # CV
 
-* **Oct 2021 - Present:** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of Dr. Janine George)
+* **Oct 2021 - Present:** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Prof. Dr. Janine George](https://jageo.github.io/))
 * **Nov 2020 - Sept 2021:** Student research asistant - AI toolkit developer at [Fritz Haber Institute of the Max Planck Society](https://www.fhi.mpg.de/) (group of [Dr. Luca M. Ghiringhelli](https://th.fhi.mpg.de/groups/bdafms/index.php?n=Group.Mission))
 * **Mar 2021 - Aug 2021:** Master Thesis at [Fritz Haber Institute of the Max Planck Society](https://th.fhi.mpg.de/groups/bdafms/) (BIG-DATA ANALYTICS FOR MATERIALS SCIENCE RESEARCH GROUP)
 * **Jul 2020 - Dec 2020:** Voluntary Intern – Soft matter simulations at [RWTH Aachen University (Computational Biology research group)](https://www.biotec.rwth-aachen.de/cms/BIOTEC/Forschung/Abteilungen/~johr/Computational-biotechnology/lidx/1/)
@@ -128,7 +128,7 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 
 # CV
 
-* **Sep 2022 - Present:** “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of Dr. Janine George)
+* **Sep 2022 - Present:** “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Prof. Dr. Janine George](https://jageo.github.io/))
 * **Dec 2017 - Jul 2022:** PhD Student and [LOBSTER](https:/www.cohp.de/) developer of "Chair of Solid-State and Quantum Chemistry" at [RWTH Aachen University](https://www.rwth-aachen.de/) (group of [Prof. Dr. Richard Dronskowski](http://www.ssc.rwth-aachen.de/)). Thesis (in German) available [here](https://publications.rwth-aachen.de/record/849333).
 * **Oct 2011 - Nov 2017:** B. Sc. and M. Sc. in Chemistry at [RWTH Aachen University](https://www.rwth-aachen.de/).
 
@@ -165,12 +165,12 @@ Nidal is a chemist who is working on the investigation of descriptors to predict
 # Education
 
 *   **April 2022 - Present:** M.Sc. student of Chemistry at the Technical University of Berlin (TU Berlin), Germany.
-*   **October 2018 – March 2022:** B.Sc. in Chemistry 'Quantum chemical bonding analysis to understand and discover thermoelectric materials' at the Technical University of Berlin (supervision of Prof. Dr. Franziska Hess with collaboration of Dr. Janine George)
+*   **October 2018 – March 2022:** B.Sc. in Chemistry 'Quantum chemical bonding analysis to understand and discover thermoelectric materials' at the Technical University of Berlin (supervision of Prof. Dr. Franziska Hess with collaboration of [Prof. Dr. Janine George](https://jageo.github.io/))
 *   **August 2011 – July 2013:** Vocational training as a chemical biological technical assistant at Lette-Verein, Berlin, Germany.
 
 # Employment history
 
-*   **July 2022 - Present:**: Student Researcher at [Federal Institute for Materials Research and Testing, Berlin, Germany](https://www.bam.de/Navigation/EN/Home/home.html) (group of Dr. Janine George)
+*   **July 2022 - Present:**: Student Researcher at [Federal Institute for Materials Research and Testing, Berlin, Germany](https://www.bam.de/Navigation/EN/Home/home.html) (group of [Prof. Dr. Janine George](https://jageo.github.io/))
     * Machine Learning tools on identifying descriptors to predict thermoelectric materials.
 *   **January 2019 - January 2020:** Technical assistant at [German Federak Institute for Risk Assessment](https://www.bfr.bund.de/en/home.html) (group of PD Dr. Klaus Abraham and Prof. Dr. Cornelia Weikert)
     *   Research and labratory work for biological matrices in terms of oxidative stress.
