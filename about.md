@@ -10,7 +10,8 @@ permalink: /about/
 
 Short CV
 ========
-* **May 2021 - today**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Department Materials Chemistry) and at the FSU Jena ([Institute of Condensed Matter Theory and Optics](https://www.ifto.uni-jena.de/))
+* **September 2023 - today**: Professor for Materials Informatics at at the FSU Jena ([Institute of Condensed Matter Theory and Optics](https://www.ifto.uni-jena.de/))
+* **May 2021 - today**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Department Materials Chemistry)
 * **January 2020**: Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)
 * **2018-April 2021:** Post-Doc position in the groups of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) ([now at Darthmouth College](https://engineering.dartmouth.edu/community/faculty/geoffroy-hautier)) and [Prof. Gian-Marco Rignanese](https://perso.uclouvain.be/gian-marco.rignanese/) at the [Université catholique de Louvain](https://uclouvain.be) 
 * **2013-2017:** Doctorate (Dr. rer. nat, summa cum laude) in Computational Solid-State Chemistry under the supervision of [Prof. Richard Dronskowski](http://www.ssc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de)
