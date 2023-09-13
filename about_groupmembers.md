@@ -17,7 +17,7 @@ Joana is a computational chemist focused on studying solid-state materials, part
 
 # CV
 
-*   **Jan 2022 - Present :** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (supervision of [Dr. Janine George](https://jageo.github.io/))
+*   **Jan 2022 - Present :** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (supervision of [Prof. Dr. Janine George](https://jageo.github.io/))
 *   **Apr 2019-Sep 2021:** MSc in Applied Chemistry, “Thermodynamics and defects of folded graphene” at [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec/) (supervision of [Dr. Jorge Ontaneda](https://www.sems.qmul.ac.uk/staff/j.ontanedarojas) with colaboration of [Dr. Ricardo Grau-Crespo group](https://www.reading.ac.uk/chemistry/staff/dr-ricardo-grau-crespo))
 *   **Sep 2007–Dec 2013:** BSc. Chemical Engineering, “Catalytic dissociation of NaNO3 on irregular surfaces of Cu, Pd, and Rh: DFT study” at [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec/) (supervision of [Dr. Silvia González Pérez](https://investigacion.utpl.edu.ec/es/sgonzalez))
 
@@ -50,7 +50,7 @@ Relationships between materials crystallographic structure and its properties.
 
 # Education
 
-*   **March 2021 - Present:** PhD Student at the [Federal Institute for Materials Research and Testing, Berlin, Germany](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Dr.-Ing. Björn Mieller](https://www.researchgate.net/profile/Bjoern-Mieller), [Dr. Janine George](https://jageo.github.io/), [Dr. Tomasz Stawski](https://www.researchgate.net/profile/Tomasz-Stawski))
+*   **March 2021 - Present:** PhD Student at the [Federal Institute for Materials Research and Testing, Berlin, Germany](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Dr.-Ing. Björn Mieller](https://www.researchgate.net/profile/Bjoern-Mieller), [Prof. Dr. Janine George](https://jageo.github.io/), [Dr. Tomasz Stawski](https://www.researchgate.net/profile/Tomasz-Stawski))
 *   **2019 – 2021:** Master in 'Materials Science Exploring Large Scale Facilities' at the University of Montpellier, France and University of Torino, Italy.
 *   **2014 – 2018:** Bachelor in 'Chemistry of Nanomaterials' at the Vilnius University, Lithuania. 
 *   Subject Pedagogy adjacent studies at the Faculty of Philosophy, Vilnius University, Lithuania (graduated 2018-01-26).
@@ -97,7 +97,7 @@ Applying material simulations and uncovering relationships between material prop
 
 # CV
 
-* **Oct 2021 - Present:** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of Dr. Janine George)
+* **Oct 2021 - Present:** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Prof. Dr. Janine George](https://jageo.github.io/))
 * **Nov 2020 - Sept 2021:** Student research asistant - AI toolkit developer at [Fritz Haber Institute of the Max Planck Society](https://www.fhi.mpg.de/) (group of [Dr. Luca M. Ghiringhelli](https://th.fhi.mpg.de/groups/bdafms/index.php?n=Group.Mission))
 * **Mar 2021 - Aug 2021:** Master Thesis at [Fritz Haber Institute of the Max Planck Society](https://th.fhi.mpg.de/groups/bdafms/) (BIG-DATA ANALYTICS FOR MATERIALS SCIENCE RESEARCH GROUP)
 * **Jul 2020 - Dec 2020:** Voluntary Intern – Soft matter simulations at [RWTH Aachen University (Computational Biology research group)](https://www.biotec.rwth-aachen.de/cms/BIOTEC/Forschung/Abteilungen/~johr/Computational-biotechnology/lidx/1/)
@@ -115,25 +115,29 @@ Applying material simulations and uncovering relationships between material prop
 # Contact
 * Email : [aakash.naik(at)bam.de](mailto:aakash.naik@bam.de)
 * LinkedIn : [aakashnaik23](https://www.linkedin.com/in/aakashnaik23/)
+* Website : [aakashnaik23.de](https://www.aakashnaik23.de/)
 
 ## **PostDocs**
 
 ### **Dr. Christina Ertural**
 <img hspace="20" align="right" src="https://github.com/QuantumChemist/QuantumChemist.github.io/blob/main/utils/pic.jpg?raw=true" width="15%" height="15%">
 
-Christina works on the quantum-chemical aided determination of the electronic structure of functional solid-state materials. The focus lies on the application of different chemical bonding indicators as well as employing machine learning and automatization techniques.
+Christina works on the quantum-chemical aided determination of the electronic structure of functional solid-state materials. The focus lies on the application of different chemical bonding indicators as well as employing machine learning and automation techniques.
 
 # Interests
 Relationship between macroscopic materials' properties and atomistic behaviour.
 
 # CV
 
-* **Sep 2022 - Present:** “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of Dr. Janine George)
+* **Sep 2022 - Present:** “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Prof. Dr. Janine George](https://jageo.github.io/))
 * **Dec 2017 - Jul 2022:** PhD Student and [LOBSTER](https:/www.cohp.de/) developer of "Chair of Solid-State and Quantum Chemistry" at [RWTH Aachen University](https://www.rwth-aachen.de/) (group of [Prof. Dr. Richard Dronskowski](http://www.ssc.rwth-aachen.de/)). Thesis (in German) available [here](https://publications.rwth-aachen.de/record/849333).
-* **Oct 2011 - Nov 2017:** B. Sc. and M. Sc. in Chemistry at [RWTH Aachen University](https://www.rwth-aachen.de/).</li>
+* **Oct 2011 - Nov 2017:** B. Sc. and M. Sc. in Chemistry at [RWTH Aachen University](https://www.rwth-aachen.de/).
 
 # Publications
+
 * [A. A. Naik, C. Ertural, N. Dhamrait, P. Benner, J. George, Sci. Data 2023, 10, 610.](https://doi.org/10.1038/s41597-023-02477-5)
+* [A. J. Corkett, Z. Chen, C. Ertural, A. Slabon, R. Dronskowski; Inorg. Chem., 2022](https://doi.org/10.1021/acs.inorgchem.2c03043)
+* [R. Nelson, C. Ertural, P. C. Müller, R. Dronskowski; Comprehensive Inorganic Chemistry III, 2022](https://doi.org/10.1016/B978-0-12-823144-9.00120-5)
 * [M. F. Hoedl, C. Ertural, R. Merkle, R. Dronskowski, J. Maier; J. Phys. Chem. C. 2022.](https://doi.org/10.1021/acs.jpcc.2c02545)
 * [C. Ertural, R. P. Stoffel, P. C. Müller, C. A. Vogt, R. Dronskowski; Chem. Mater. 2022.](https://doi.org/10.1021/acs.chemmater.1c03349)
 * [J. Hempelmann, P. C. Müller, C. Ertural, R. Dronskowski; Angew. Chem. 2022.](https://doi.org/10.1002/anie.202115778)
@@ -144,9 +148,38 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 * [C. Ertural, S. Steinberg, R. Dronskowski; RSC Adv. 2019.](https://doi.org/10.1039/C9RA05190B)
 * [W. L. Li, C. Ertural, D. Bogdanovski, J. Li, R. Dronskowski; Inorg. Chem. 2018.](https://doi.org/10.1021/acs.inorgchem.8b02263)
 
+Reviewer for:
+============
+* [Physical Chemistry Chemical Physics (PCCP)](https://www.rsc.org/journals-books-databases/about-journals/pccp/)
+* [Journal of Materials Chemistry A](https://www.rsc.org/journals-books-databases/about-journals/journal-of-materials-chemistry-a/)
+* [Inorganic Chemistry Frontiers](https://www.rsc.org/journals-books-databases/about-journals/inorganic-chemistry-frontiers/)
+* [Materials Horizons](https://www.rsc.org/journals-books-databases/about-journals/materials-horizons/)
+
 # Contact
 * Email : [christina.ertural(at)bam.de](mailto:christina.ertural@bam.de)
 * ResearchGate : [Christina-Ertural](https://www.researchgate.net/profile/Christina-Ertural)
 
+## **Student Researchers**
 
+### **Nidal Dhamrait**
 
+Nidal is a chemist who is working on the investigation of descriptors to predict thermoelectric materials.
+
+# Education
+
+*   **April 2022 - Present:** M.Sc. student of Chemistry at the Technical University of Berlin (TU Berlin), Germany.
+*   **October 2018 – March 2022:** B.Sc. in Chemistry 'Quantum chemical bonding analysis to understand and discover thermoelectric materials' at the Technical University of Berlin (supervision of Prof. Dr. Franziska Hess with collaboration of [Prof. Dr. Janine George](https://jageo.github.io/))
+*   **August 2011 – July 2013:** Vocational training as a chemical biological technical assistant at Lette-Verein, Berlin, Germany.
+
+# Employment history
+
+*   **July 2022 - Present:**: Student Researcher at [Federal Institute for Materials Research and Testing, Berlin, Germany](https://www.bam.de/Navigation/EN/Home/home.html) (group of [Prof. Dr. Janine George](https://jageo.github.io/))
+    * Machine Learning tools on identifying descriptors to predict thermoelectric materials.
+*   **January 2019 - January 2020:** Technical assistant at [German Federak Institute for Risk Assessment](https://www.bfr.bund.de/en/home.html) (group of PD Dr. Klaus Abraham and Prof. Dr. Cornelia Weikert)
+    *   Research and labratory work for biological matrices in terms of oxidative stress.
+*   **Decembre 2013 - September 2017:** Chemical technical assistant at EUROFINS SOFIA GmbH, Berlin, Germany.
+    *   Preparation and determination of contaminants in food with GC-MS, GC-MSMS and GC-FPD.
+
+# Contact
+* Email : [nidal.dhamrait(at)bam.de](mailto:nidal.dhamrait@bam.de)
+* LinkedIn : [nidal-dhamrait-b3837018b](https://www.linkedin.com/in/nidal-dhamrait-b3837018b/)

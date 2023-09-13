@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Talk in the Materials Project Seminar Series"
-date:   2021-12-16 10:00:00 +0100
-preview: Janine gave a seminar in the Materials Projet Seminar Series. 
+date:   2022-06-02 10:00:00 +0100
+preview: Janine gave a seminar in the Materials Project Seminar Series. 
 image: images/mp.png
 categories: jekyll update
 ---

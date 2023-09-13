@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Dr. Janine George
+title: Prof. Dr. Janine George
 permalink: /about/
 ---
 
 
-
+<img hspace="20" align="right" src="../images/me.jpg" width="40%" height="40%">
 
 
 Short CV
 ========
-* **May 2021 - today**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Department Materials Chemistry) and at the FSU Jena ([Institute of Condensed Matter Theory and Optics](http://www.ico.uni-jena.de/index.php?page=home))
+* **September 2023 - today**: Professor for Materials Informatics at at the FSU Jena ([Institute of Condensed Matter Theory and Optics](https://www.ifto.uni-jena.de/))
+* **May 2021 - today**: Junior Group Leader of the Group "Computational Materials Design" at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (Department Materials Chemistry)
 * **January 2020**: Visiting Researcher at University of Oxford (group of [Prof. Volker Deringer](http://research.chem.ox.ac.uk/volker-deringer.aspx)) funded by [HPC Europa3](http://www.hpc-europa.eu/)
 * **2018-April 2021:** Post-Doc position in the groups of [Prof. Geoffroy Hautier](http://perso.uclouvain.be/geoffroy.hautier/) at the [Université catholique de Louvain](https://uclouvain.be) ([now at Darthmouth College](https://engineering.dartmouth.edu/community/faculty/geoffroy-hautier)) and [Prof. Gian-Marco Rignanese](https://perso.uclouvain.be/gian-marco.rignanese/) at the [Université catholique de Louvain](https://uclouvain.be) 
 * **2013-2017:** Doctorate (Dr. rer. nat, summa cum laude) in Computational Solid-State Chemistry under the supervision of [Prof. Richard Dronskowski](http://www.ssc.rwth-aachen.de/), [RWTH Aachen University](http://www.rwth-aachen.de)
+* **2012-2017:** Courses in Computational Science at the Bachelor and Master of Science Level at Fernuni Hagen
 * **2011-2013:** Master of Science in Chemistry (summa cum laude), [RWTH Aachen University](http://www.rwth-aachen.de)
 * **2008-2011:** Bachelor of Science in Chemistry, [RWTH Aachen University](http://www.rwth-aachen.de)
 * **2005-2008:** Abitur at the [Internatsschule Schloss Hansenberg](https://www.hansenberg.de/) 
@@ -46,6 +48,7 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
+
 42. [A. A. Naik, C. Ertural, N. Dhamrait, P. Benner, J. George, *Sci. Data* **2023**, 10, 610.](https://doi.org/10.1038/s41597-023-02477-5)
 41. [M. Arnold, J. Katzmann, A. Naik, A. L. Görne, T. Härtling, J. George, C. Schuster, *J. Mater. Chem. C*, **2022**, DOI 10.1039/D2TC01773C.](https://doi.org/10.1039/D2TC01773C)
 40. [J. George, G. Petretto, A. Naik, M. Esters, A. J. Jackson, R. Nelson, R. Dronskowski, G.-M. Rignanese, G. Hautier, *ChemPlusChem*, **2022**, e202200123.](https://doi.org/10.1002/cplu.202200123)
@@ -145,11 +148,12 @@ ts/workshops.html) at the Universität Münster, Germany.
 Programming Projects
 =========
 - Currently:
-1. Contributions to the [pymatgen library](http://pymatgen.org/)
-   - Classes for the evaluation/plotting of the output files from [Lobster](http://www.cohp.de)  - a tool for bonding analysis in crystals
-   - A [tutorial](http://matgenb.materialsvirtuallab.org/2019/01/11/How-to-plot-and-evaluate-output-files-from-Lobster.html) on the evaluation of the output files from [Lobster](http://www.cohp.de) - a tool for bonding analysis in crystals
-   - A [tutorial](http://matgenb.materialsvirtuallab.org/2018/01/01/ChemEnv-How-to-automatically-identify-coordination-environments-in-a-structure.html) on the use of the ChemEnv package included in pymatgen 
-
+   1. Contributions to the [pymatgen library](http://pymatgen.org/)
+      - Classes for the evaluation/plotting of the output files from [Lobster](http://www.cohp.de)  - a tool for bonding analysis in crystals
+      - A [tutorial](http://matgenb.materialsvirtuallab.org/2019/01/11/How-to-plot-and-evaluate-output-files-from-Lobster.html) on the evaluation of the output files from [Lobster](http://www.cohp.de) - a tool for bonding analysis in crystals
+      - A [tutorial](http://matgenb.materialsvirtuallab.org/2018/01/01/ChemEnv-How-to-automatically-identify-coordination-environments-in-a-structure.html) on the use of the ChemEnv package included in pymatgen 
+   2. Contributions to [atomate2](https://materialsproject.github.io/atomate2/) and [atomate](https://atomate.org/)
+      - Lobster and phonon workflow 
 
 - During my Doctorate and currently:
 1. Development of the [Molecular Toolbox](https://github.com/JaGeo/MolecularToolbox) - a package that converts anisotropic displacement parameters from one parametrization to another 
