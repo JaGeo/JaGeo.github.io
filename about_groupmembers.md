@@ -182,6 +182,9 @@ Nidal is a chemist who is working on the investigation of descriptors to predict
 *   **Decembre 2013 - September 2017:** Chemical technical assistant at EUROFINS SOFIA GmbH, Berlin, Germany.
     *   Preparation and determination of contaminants in food with GC-MS, GC-MSMS and GC-FPD.
 
+# Publications
+* [A. A. Naik, C. Ertural, N. Dhamrait, P. Benner, J. George, *Sci. Data* **2023**, 10, 610.](https://doi.org/10.1038/s41597-023-02477-5)
+
 # Contact
 * Email : [nidal.dhamrait(at)bam.de](mailto:nidal.dhamrait@bam.de)
 * LinkedIn : [nidal-dhamrait-b3837018b](https://www.linkedin.com/in/nidal-dhamrait-b3837018b/)
