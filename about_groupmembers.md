@@ -106,9 +106,10 @@ Applying material simulations and uncovering relationships between material prop
 * **Aug 2011 - Jul 2015:** B.E in Automobile Engineering, [University of Mumbai](https://mu.ac.in/)
 
 # Publications
-* [M. Arnold, J. Katzmann, A. Naik, A. Görne, T. Härtling, J. George, C. Schuster, Journal of Materials Chemistry C 2022](https://doi.org/10.1039/D2TC01773C)
-* [J. George, G. Petretto, A. Naik, M. Esters, A. Jackson, R. Nelson, R. Dronskowski, G. Rignanese, G. Hautier, ChemPlusChem 2022](https://doi.org/10.1002/cplu.202200123)
-* [S. Sahoo, I. Teixeira, A. Naik, J. Heske, D. Cruz, M. Antonietti, A. Savateev, T. Kühne, The Journal of Physical Chemistry C 2021, 125, 13749-13758.](https://doi.org/10.1021/acs.jpcc.1c03947)
+* [A. A. Naik, C. Ertural, N. Dhamrait, P. Benner, J. George, *Sci. Data* **2023**, 10, 610.](https://doi.org/10.1038/s41597-023-02477-5)
+* [M. Arnold, J. Katzmann, A. Naik, A. Görne, T. Härtling, J. George, C. Schuster, *Journal of Materials Chemistry C* **2022**](https://doi.org/10.1039/D2TC01773C)
+* [J. George, G. Petretto, A. Naik, M. Esters, A. Jackson, R. Nelson, R. Dronskowski, G. Rignanese, G. Hautier, *ChemPlusChem* **2022**](https://doi.org/10.1002/cplu.202200123)
+* [S. Sahoo, I. Teixeira, A. Naik, J. Heske, D. Cruz, M. Antonietti, A. Savateev, T. Kühne, *The Journal of Physical Chemistry C* **2021**, 125, 13749-13758.](https://doi.org/10.1021/acs.jpcc.1c03947)
 
 
 # Contact
@@ -133,6 +134,8 @@ Relationship between macroscopic materials' properties and atomistic behaviour.
 * **Oct 2011 - Nov 2017:** B. Sc. and M. Sc. in Chemistry at [RWTH Aachen University](https://www.rwth-aachen.de/).
 
 # Publications
+
+* [A. A. Naik, C. Ertural, N. Dhamrait, P. Benner, J. George, Sci. Data 2023, 10, 610.](https://doi.org/10.1038/s41597-023-02477-5)
 * [A. J. Corkett, Z. Chen, C. Ertural, A. Slabon, R. Dronskowski; Inorg. Chem., 2022](https://doi.org/10.1021/acs.inorgchem.2c03043)
 * [R. Nelson, C. Ertural, P. C. Müller, R. Dronskowski; Comprehensive Inorganic Chemistry III, 2022](https://doi.org/10.1016/B978-0-12-823144-9.00120-5)
 * [M. F. Hoedl, C. Ertural, R. Merkle, R. Dronskowski, J. Maier; J. Phys. Chem. C. 2022.](https://doi.org/10.1021/acs.jpcc.2c02545)

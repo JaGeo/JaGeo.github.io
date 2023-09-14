@@ -48,9 +48,11 @@ Publications
 =============
 
 See [https://scholar.google.com](https://scholar.google.com/citations?user=bggcIYEAAAAJ&hl=en&oi=ao)
-41. [M. Arnold, J. Katzmann, A. Naik, A. L. Görne, T. Härtling, J. George, C. Schuster, "Investigations on electron beam irradiated rare-earth doped SrF 2 for application as low fading dosimeter material: evidence for and DFT simulation of a radiation-induced phase", *J. Mater. Chem. C* **2022**, DOI 10.1039/D2TC01773C.](https://doi.org/10.1039/D2TC01773C)
-40. [J. George, G. Petretto, A. Naik, M. Esters, A. J. Jackson, R. Nelson, R. Dronskowski, G.-M. Rignanese, G. Hautier, "Automated Bonding Analysis with Crystal Orbital Hamilton Populations", *ChemPlusChem*, **2022**, e202200123.](https://doi.org/10.1002/cplu.202200123)
-39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. T. Agne, W. G. Zeier, "Considering the Role of Ion Transport in Diffuson‐Dominated Thermal Conductivity", Advanced Energy Materials **2022**, 12, 2200717.](https://doi.org/10.1002/aenm.202200717)
+
+42. [A. A. Naik, C. Ertural, N. Dhamrait, P. Benner, J. George, *Sci. Data* **2023**, 10, 610.](https://doi.org/10.1038/s41597-023-02477-5)
+41. [M. Arnold, J. Katzmann, A. Naik, A. L. Görne, T. Härtling, J. George, C. Schuster, *J. Mater. Chem. C*, **2022**, DOI 10.1039/D2TC01773C.](https://doi.org/10.1039/D2TC01773C)
+40. [J. George, G. Petretto, A. Naik, M. Esters, A. J. Jackson, R. Nelson, R. Dronskowski, G.-M. Rignanese, G. Hautier, *ChemPlusChem*, **2022**, e202200123.](https://doi.org/10.1002/cplu.202200123)
+39. [T. Bernges, R. Hanus, B. Wankmiller, K. Imasato, S. Lin, M. Ghidiu, M. Gerlitz, M. Peterlechner, S. Graham, G. Hautier, Y. Pei, M. R. Hansen, G. Wilde, G. J. Snyder, J. George, M. T. Agne, W. G. Zeier, Advanced Energy Materials **2022**, 12, 2200717.](https://doi.org/10.1002/aenm.202200717)
 38. [D.F. Dahliah, G. Brunin, J. George, V.A. Ha, G.M. Rignanese, G. Hautier, "High-throughput computational search for high carrier lifetime, defect-tolerant solar absorbers", *Energy Environ. Sci.,*, **2021**, 14, 5057-5073](https://doi.org/10.1039/D1EE00801C)
 37. [J. George, "Automation in DFT-based computational materials science", *Trends in Chemistry*, **2021**, DOI: https://doi.org/10.1016/j.trechm.2021.07.001](https://doi.org/10.1016/j.trechm.2021.07.001) 
 36. [M. Suta, J. George, "Ungewöhnliche Oxidationsstufen, (un)gewöhnliche Maßnahmen", *Nachrichten aus der Chemie*, **2021**, *69*, 73-78](https://doi.org/10.1002/nadc.20214109053)
