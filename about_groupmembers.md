@@ -132,10 +132,10 @@ Relationships between crystal structure and magnetic properties
 
 # CV
 * **Jan 2024 - Present:** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Prof. Dr. Janine George](https://jageo.github.io/))
-* **Oct 2020 - Oct 2023:** MSc in Chemistry at [Leipzig University](https://www.uni-leipzig.de/en))
+* **Oct 2020 - Oct 2023:** MSc in Chemistry at [Leipzig University](https://www.uni-leipzig.de/en)
 * **Mar 2023 - Sep 2023:** Student research assistent of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Prof. Dr. Janine George](https://jageo.github.io/))
 * **Jul 2022 - Sep 2022:** Research assistant at [Max Planck Institute for Chemical Physics of Solids](https://www.cpfs.mpg.de/en), Chemical Metals Science department
-* **Oct 2017 - Oct 2020:** BSc in Chemistry at  [Leipzig University](https://www.uni-leipzig.de/en))
+* **Oct 2017 - Oct 2020:** BSc in Chemistry at  [Leipzig University](https://www.uni-leipzig.de/en)
 
 
 # Publications
