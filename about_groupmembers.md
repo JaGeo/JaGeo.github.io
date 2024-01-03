@@ -117,6 +117,38 @@ Applying material simulations and uncovering relationships between material prop
 * LinkedIn : [aakashnaik23](https://www.linkedin.com/in/aakashnaik23/)
 * Website : [aakashnaik23.de](https://www.aakashnaik23.de/)
 
+
+
+### **Katharina Ueltzen**
+
+<img hspace="20" align="right" src="../images/katharina.jpeg" width="15%" height="15%">
+
+Katharina works on high-throughput evaluation of heuristics in chemistry and physics via automated analysis. Furthermore, she applies machine learning techniques to predict magnetic properties of solid-state materials.
+
+
+# Interests
+Relationships between crystal structure and magnetic properties
+
+
+# CV
+* **Jan 2024 - Present:** PhD Student of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Prof. Dr. Janine George](https://jageo.github.io/))
+* **Oct 2020 - Oct 2023:** MSc in Chemistry at [Leipzig University](https://www.uni-leipzig.de/en)
+* **Mar 2023 - Sep 2023:** Student research assistent of “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html) (tutelage of [Prof. Dr. Janine George](https://jageo.github.io/))
+* **Jul 2022 - Sep 2022:** Research assistant at [Max Planck Institute for Chemical Physics of Solids](https://www.cpfs.mpg.de/en), Chemical Metals Science department
+* **Oct 2017 - Oct 2020:** BSc in Chemistry at  [Leipzig University](https://www.uni-leipzig.de/en)
+
+
+# Publications
+* [M. Grauer, L. Staab, K. Ueltzen, C. Benndorf, C. Paulmann, O. Oeckler, *Inorg. Chem.* **2023**, 62, 51, 20874–20887.](https://doi.org/10.1021/acs.inorgchem.3c03160)
+* [W. P. Clark, K. Ueltzen, U. Burkhardt, L. Akselrud, Y. Grin, U. Schwarz, *Z. Naturforsch. B* **2023**, 78, 3-4, 189-193.](https://doi.org/10.1515/znb-2023-0306)
+* [K. Ueltzen, S. Schmitz, M. Moors, M. Glöß, M. Börner, I. Werner, Z. Warneke, J. Warneke, B. Abel,  K. Yu. Monakhov, *Inorg. Chem.* **2021**, 60, 14, 10415–10425.](https://doi.org/10.1021/acs.inorgchem.1c00994)
+
+
+# Contact
+* Email : [katharina.ueltzen(at)bam.de](mailto:katharina.ueltzen@bam.de)
+* LinkedIn : [katharina-ueltzen](https://www.linkedin.com/in/katharina-ueltzen/)
+
+
 ## **PostDocs**
 
 ### **Dr. Christina Ertural**
