@@ -123,7 +123,7 @@ Applying material simulations and uncovering relationships between material prop
 
 <img hspace="20" align="right" src="../images/katharina.jpeg" width="15%" height="15%">
 
-Katharina works on high-throughput evaluation of heuristics in chemistry and physics via automated analysis. Furthermore she applies machine learning techniques to predict magnetic properties of solid-state materials.
+Katharina works on high-throughput evaluation of heuristics in chemistry and physics via automated analysis. Furthermore, she applies machine learning techniques to predict magnetic properties of solid-state materials.
 
 
 # Interests
