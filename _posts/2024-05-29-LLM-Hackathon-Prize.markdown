@@ -3,7 +3,7 @@ layout: post
 title:  "Our team won Anthropic prize at LLM Hackathon for Applications in Materials and Chemistry 2024"
 date:   2024-05-29 9:00:50 +0100
 preview: Katharina and Aakash won Anthropic credits as prize for their work on fine-tuning LLMs for materials property predictions.
-image: images/werner-von-siemens-ring.png
+image: images/llm_for_lastphdospeak_prediction.png
 categories: jekyll update
 ---
 
