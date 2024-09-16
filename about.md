@@ -22,10 +22,12 @@ Short CV
 
 Awards
 ======
+* **2024:** ERC Starting Grant, Funding of 1.5 Million EUR for five years.
+* **2023:** [Werner von Siemens Ring Stiftung Award for Young Scientists](https://siemens-ring.de/juwi23-george)
 * **2021:** Falling Walls Finalist "Breakthrough of the Year" in the Category "Physical Sciences".
 * **2021:** Junior Group Funding at BAM of Around One Million Euros for 5 Years.
-* **2021:** Offered Junior Professorship at TU Braunschweig (W1TTW2, declined in favor of the BAM position). 
-* **2021:** Liebig Fellowship, Fonds der Chemischen Industrie (declined in favor of the BAM position).
+* **2021:** Offered Junior Professorship at TU Braunschweig (W1TTW2, Declined in Favor of the BAM Position). 
+* **2021:** Liebig Fellowship, Fonds der Chemischen Industrie (Declined in Favor of the BAM Position).
 * **2019:** Poster prize, GDCh-Fachgruppe Theoretische Chemie.
   - Poster award at the Symposium on Theoretical Chemistry, University of Rostock, 2019.
 * **2019:** Marie Skłodowska-Curie Individual Fellowship, European Commission.
