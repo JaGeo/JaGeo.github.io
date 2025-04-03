@@ -195,7 +195,7 @@ Reviewer for:
 
 
 
-## ** Alumni
+## **Alumni**
 
 ### **Nidal Dhamrait**
 
