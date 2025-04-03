@@ -193,11 +193,13 @@ Reviewer for:
 * Email : [christina.ertural(at)bam.de](mailto:christina.ertural@bam.de)
 * ResearchGate : [Christina-Ertural](https://www.researchgate.net/profile/Christina-Ertural)
 
-## **Student Researchers**
+
+
+## ** Alumni
 
 ### **Nidal Dhamrait**
 
-Nidal is a chemist who is working on the investigation of descriptors to predict thermoelectric materials.
+Nidal was a student researcher in the group from 2022 to 2025. He worked on the investigation of descriptors to predict thermoelectric materials.
 
 # Education
 
