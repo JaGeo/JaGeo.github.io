@@ -199,26 +199,10 @@ Reviewer for:
 
 ### **Nidal Dhamrait**
 
-Nidal was a student researcher in the group from 2022 to 2025. He worked on the investigation of descriptors to predict thermoelectric materials.
-
-# Education
-
-*   **April 2022 - Present:** M.Sc. student of Chemistry at the Technical University of Berlin (TU Berlin), Germany.
-*   **October 2018 – March 2022:** B.Sc. in Chemistry 'Quantum chemical bonding analysis to understand and discover thermoelectric materials' at the Technical University of Berlin (supervision of Prof. Dr. Franziska Hess with collaboration of [Prof. Dr. Janine George](https://jageo.github.io/))
-*   **August 2011 – July 2013:** Vocational training as a chemical biological technical assistant at Lette-Verein, Berlin, Germany.
-
-# Employment history
-
-*   **July 2022 - Present:**: Student Researcher at [Federal Institute for Materials Research and Testing, Berlin, Germany](https://www.bam.de/Navigation/EN/Home/home.html) (group of [Prof. Dr. Janine George](https://jageo.github.io/))
-    * Machine Learning tools on identifying descriptors to predict thermoelectric materials.
-*   **January 2019 - January 2020:** Technical assistant at [German Federak Institute for Risk Assessment](https://www.bfr.bund.de/en/home.html) (group of PD Dr. Klaus Abraham and Prof. Dr. Cornelia Weikert)
-    *   Research and labratory work for biological matrices in terms of oxidative stress.
-*   **Decembre 2013 - September 2017:** Chemical technical assistant at EUROFINS SOFIA GmbH, Berlin, Germany.
-    *   Preparation and determination of contaminants in food with GC-MS, GC-MSMS and GC-FPD.
+Nidal was a student researcher in the group from 2022 to 2025. He worked on investigating descriptors that predict thermoelectric materials.
 
 # Publications
 * [A. A. Naik, C. Ertural, N. Dhamrait, P. Benner, J. George, *Sci. Data* **2023**, 10, 610.](https://doi.org/10.1038/s41597-023-02477-5)
 
 # Contact
-* Email : [nidal.dhamrait(at)bam.de](mailto:nidal.dhamrait@bam.de)
 * LinkedIn : [nidal-dhamrait-b3837018b](https://www.linkedin.com/in/nidal-dhamrait-b3837018b/)
