@@ -194,32 +194,6 @@ Reviewer for:
 * ResearchGate : [Christina-Ertural](https://www.researchgate.net/profile/Christina-Ertural)
 
 
-### **Dr. Tom Demeyere**
-<img hspace="20" align="right" src="../images/tom.jpg" width="20%" height="1%">
-
-Tom works on the development of new chemical bonding indicators and their application to solid-state materials. He is also interested in the automation of quantum-chemical calculations via workflows and the application of machine learning techniques to materials science.
-
-# Interests
-Bridging atomistic simulations with experimental observables, previously in the field of electrochemistry, now in solid-state materials.
-
-# CV
-* **Present:** Research Associate in the “Computational Materials Design Group” at the [Federal Institute for Materials Research and Testing](https://www.bam.de/Navigation/EN/Home/home.html)
-* **Present:** Visiting Researcher at the [Fritz Haber Institute](https://www.fhi.mpg.de/) in the Theory Department.
-* **2025:** PhD in Computational Chemistry at [University of Southampton](https://www.southampton.ac.uk/) - ["Coupling of Modern Computational Techniques to Study the Oxygen Reduction Reaction"](http://eprints.soton.ac.uk/id/eprint/499737)
-* **2020:** Master in Theoretical Chemistry at [University of Lille](https://www.univ-lille.fr/)/[Jagiellonian University](https://en.uj.edu.pl/) - First year: "Molecular Dynamics and Chemical Reactivity"; Second year: "Advanced Spectroscopy in Chemistry" (ASC) via Erasmus+
-* **2018:** Bachelor in Physics and Chemistry at [University of Lille](https://www.univ-lille.fr/)
-
-# Publications
-
-* [Demeyere, T., Ellaby, T., Sarwar, M., Thompsett, D., Skylaris, C.-K., 2025. ACS Catal. 5674–5682.](https://doi.org/10.1021/acscatal.5c00321)
-* [Demeyere, T., Islam, H.U., Ellaby, T., Sarwar, M., Thompsett, D., Skylaris, C.-K., 2025. Phys. Chem. Chem. Phys. 27, 10011–10022.](https://doi.org/10.1039/D5CP00134J)
-* [Demeyere, T., Skylaris, C.-K., 2024. J. Phys. Chem. C 128, 19586–19600.](https://doi.org/10.1021/acs.jpcc.4c04924)
-* [Holland, J., Demeyere, T., Bhandari, A., Hanke, F., Milman, V., Skylaris, C.-K., 2023. J. Phys. Chem. Lett. 14, acs.jpclett.3c02064](https://doi.org/10.1021/acs.jpclett.3c02064)
-
-# Contact
-* Email : [tom.demeyere(at)bam.de](mailto:tom.demeyere@bam.de) / [demeyere(at)fhi.mpg.de](mailto:demeyere@fhi.mpg.de)
-* ORCID: [0000-0002-5023-6156](https://orcid.org/0000-0002-5023-6156)
-* LinkedIn: [tom-demeyere](https://www.linkedin.com/in/tom-demeyere-091144b9/)
 
 ## **Alumni**
 
